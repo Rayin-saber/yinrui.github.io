@@ -36,3 +36,10 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 - Science and Technology Innovation Scholarship, Shandong University, China, 2013
 - Research and Innovation Scholarship, Shandong University, China, 2012
 - Grand Prize, National Undergraduate Intelligent Car Competition, China (<0.1%), 2012
+
+<b>Activities</b>
+- Oral presenter, Joint 30th International Conference on Genome Informatics and Australian Bioinformatics And Computational Biology Society Annual Conference, Sydney, Australia, December 9-11, 2019
+- Oral presenter, The 29th Genome Informatics Workshop, KunMing, Yunnan, China, December 3-5, 2018
+- Oral Presenter, the 6th International Conference on Bioinformatics and Biomedical Science, Singapore, June 22-24, 2017
+
+
