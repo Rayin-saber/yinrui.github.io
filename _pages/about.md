@@ -19,7 +19,7 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 - Ph.D. in Biomedical Informatics, Nanyang Technological University, Singapore, 2020
 - M.S. in Control Engineering, Central South University, China, 2016
 - B.S. in Automation, Shandong University, 2013
-- B.S. in Automation, South China University of Technology (exchange), 2011
+(Exchange in South China University of Technology, 2011)
 
 <b>Work experience</b>
 - Research Fellow, Harvard Medical School, US, 2020.8 - present
