@@ -7,4 +7,7 @@ author_profile: true
 
 Address: Department of Biomedical Informatics, 10 Shattuck Street, Boston, MA 02115
 
-Email: rui_yin@hms.harvard.edu
+Email: <A href="rui_yin@hms.harvard.edu ">rui_yin@hms.harvard.edu</A>
+
+
+
