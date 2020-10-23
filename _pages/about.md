@@ -12,8 +12,7 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 
 
 
- /Education
-
+<mark>Education</mark>
 - Ph.D. in Computational Biology, Nanyang Technological University, Singapore, 2020
 - M.S. in Control Engineering, Central South University, China, 2016
 - B.S. in Automation, Shandong University, 2013
