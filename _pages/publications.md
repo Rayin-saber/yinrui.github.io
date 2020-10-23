@@ -32,3 +32,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - <strong>Yin R</strong>, Chee Keong Kwoh, and Jie Zheng. Whole Genome Sequencing Analysis: Computational Pipelines and Workflows in Bioinformatics, Encyclopedia of Bioinformatics and Computational Biology, 176-183, 2019.
 
 <font size="5"><b>Patents</b></font> 
+- The device of matrix sedimentation, China, 2014
+- The device and method of Linear sweep polarographic wave model, China 2013
