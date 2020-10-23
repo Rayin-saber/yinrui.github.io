@@ -14,6 +14,5 @@ title: "Journal"
 
 
 
-<b>Journals</b>
 This is what you think about
 Can not shown here
