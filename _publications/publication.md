@@ -1,14 +1,14 @@
 ---
-
-collection: publications
-permalink: /publication/publication
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-
-<b>Journals</b>
-
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /
+title: "Publications"
+excerpt: "Publications"
+author_profile: true
+redirect_from: 
+  - /Publications/
+  - /Publications.html
 ---
 
+<b>Journals</b>
 
 <b>Conferences</b>
 
