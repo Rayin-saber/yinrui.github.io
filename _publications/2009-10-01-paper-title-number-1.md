@@ -1,5 +1,5 @@
-Journals
+<b>Journals</b>
 
-Conferences
+<b>Conferences</b>
 
-Patents
+<b>Patents</b>
