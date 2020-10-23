@@ -11,4 +11,4 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <font size="5"><b>Journal</b></font>  <br> 
-<b>Yin R<b>, Luo Z, Zhuang P, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics.
+- <strong>Yin R</strong>, Luo Z, Zhuang P, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics.
