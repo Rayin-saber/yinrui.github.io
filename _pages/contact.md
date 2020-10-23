@@ -1,7 +1,7 @@
 ---
 #layout: archive
 #title: "Contact"
-permalink: /publications/
+permalink: /contact/
 author_profile: true
 ---
 
