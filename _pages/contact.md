@@ -12,4 +12,4 @@ Address: Department of Biomedical Informatics, Harvard Medical School,
 Email: <A href="mailto:rui_yin@hms.harvard.edu ">rui_yin@hms.harvard.edu</A>
 
 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c"></script>
