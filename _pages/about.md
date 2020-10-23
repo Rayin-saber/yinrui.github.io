@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at Department of Biomedical Informatics, Harvard Medical School, working with Dr. Paul Avillach to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph.D. degree from School of Computer Science and Engineering, Nanyang Technological University, under the supervison of Dr. Kwoh Chee Keong. 
+I am currently a research fellow at Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a> to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph.D. degree from School of Computer Science and Engineering, Nanyang Technological University, under the supervison of <a href="https://www.ntu.edu.sg/home/asckkwoh/">Dr. Kwoh Chee Keong</a>. 
 
 <b>Research Interest</b>
 - Machine learning in RNA virus
