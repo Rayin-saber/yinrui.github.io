@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rui Yin"
   avatar           : "headshot.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research fellow at Department of Biomedical Informatics, Harvard Medical School"
   location         : "Boston"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Boston # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
