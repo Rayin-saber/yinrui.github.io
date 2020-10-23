@@ -32,7 +32,7 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 - Research Scholarship, Nanyang Technological University, Singapore, 2016 - 2020
 - Research Scholarship, Central South University, China, 2013 -2016
 - The Excellence in Teaching Assistantship Award, Nanyang Technological University, 2017
-- Second Prize, National Graduate Students Mathematical Modeling Competition, China, 2013
+- Second Prize, National Graduate Mathematical Modeling Competition, China, 2013
 - Science and Technology Innovation Scholarship, Shandong University, China, 2013
 - Research and Innovation Scholarship, Shandong University, China, 2012
-- Grand Prize (No.2), National Undergraduate Intelligent Car Competition, China (<0.1%), 2012
+- Grand Prize, National Undergraduate Intelligent Car Competition, China (<0.1%), 2012
