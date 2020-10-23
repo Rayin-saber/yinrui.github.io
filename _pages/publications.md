@@ -9,9 +9,6 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
-<b>Journal</b>
-fsfege
+<font size="10"><b>Journal</b></font>  <br> 
+This is what
