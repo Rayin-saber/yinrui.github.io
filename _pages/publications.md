@@ -33,4 +33,4 @@ author_profile: true
 
 <font size="5"><b>Patents</b></font> 
 - The device of matrix sedimentation, China, 2014
-- The device and method of Linear sweep polarographic wave model, China 2013
+- The device and method of Linear sweep polarographic wave model, China, 2013
