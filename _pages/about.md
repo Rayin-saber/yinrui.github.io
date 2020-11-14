@@ -13,6 +13,7 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 
 <b>Research Interest</b>
 - Machine learning in RNA virus
+- Genotype-phenotype association study
 - Significant pattern or biomarker mining
 - Explainable AI in healthcare and precision medicine
 
