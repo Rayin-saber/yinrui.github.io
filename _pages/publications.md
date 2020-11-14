@@ -8,8 +8,8 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en">my Google Scholar profile</a>
 
 <font size="5"><b>Journals</b></font>  
-- <strong>Yin R</strong>, Luo Z, Kwoh C K. Alignment-free machine learning approaches for the lethality prediction of potential novel human-adapted coronavirus using genomic nucleotide[J]. bioRxiv, 2020. <a href="https://drive.google.com/file/d/1aykYKyApKUB2nSQ-5F-n16EEUUluvewA/view?usp=sharing">(pdf)</a>
-- <strong>Yin R</strong>, Luo Z, Zhuang P, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics.
+- <strong>Yin R</strong>, Luo Z, Kwoh C K. Alignment-free machine learning approaches for the lethality prediction of potential novel human-adapted coronavirus using genomic nucleotide[J]. bioRxiv, 2020. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.176933v1.full.pdf">(pdf)</a>
+- <strong>Yin R</strong>, Luo Z, Zhuang P, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics. <a href="https://drive.google.com/file/d/1aykYKyApKUB2nSQ-5F-n16EEUUluvewA/view?usp=sharing">(pdf)</a>
 - <strong>Yin R</strong>, Thwin N N, Zhuang P, et al. IAV-CNN: a 2D convolutional neural network model to predict antigenic variants of influenza A virus[J]. bioRxiv, 2020.
 - Lin Z , Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization[J]. bioRxiv, 2020.
 - <strong>Yin R</strong>, Luusua E, Dabrowski J, et al. Tempel: Time-series Mutation Prediction of Influenza A Viruses via Attention-based Recurrent Neural Networks[J]. Bioinformatics, 2020.
