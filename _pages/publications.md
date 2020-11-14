@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my<a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en">Google Scholar profile</a>
+You can also find my articles on my <a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en">Google Scholar profile</a>
 
 <font size="5"><b>Journals</b></font>  
 - <strong>Yin R</strong>, Luo Z, Kwoh C K. Alignment-free machine learning approaches for the lethality prediction of potential novel human-adapted coronavirus using genomic nucleotide[J]. bioRxiv, 2020. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.176933v1.full.pdf">(pdf)</a>
