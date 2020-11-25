@@ -45,11 +45,11 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 - Oral Presenter, the 6th International Conference on Bioinformatics and Biomedical Science, Singapore, June 22-24, 2017
 
 <b>Teaching and guidance</b>
-- <b>Teaching assistance:</b> 
- Data Mining, Computational Biology, Computer Architecture, Introduction to Data Science and Artificial Intelligence
-- <b>Supervision of undergraduate:</b>
- <b>1. Xianghe Zhu,</b> University of Bristol, UK, 2020
- Project: B-cell epitope prediction of potential novel viruses through machine learning techniques 
+- <b>Teaching assistance:</b>  ＜/br＞
+Data Mining, Computational Biology, Computer Architecture, Introduction to Data Science and Artificial Intelligence
+- <b>Supervision of undergraduate:</b> ＜/br＞
+ <b>1. Xianghe Zhu,</b> University of Bristol, UK, 2020 ＜/br＞
+ Project: B-cell epitope prediction of potential novel viruses through machine learning techniques ＜/br＞
  <b>2. Zihan Luo,</b> Huazhong University of Science and Technology, China, 2020 
  Project: Virulence prediction of influenza A viruses with prior mutation and reassortment knowledge using all 8 segments 
  <b>3. Jan Dabrowski,</b> Swansea University, UK, 2019 
