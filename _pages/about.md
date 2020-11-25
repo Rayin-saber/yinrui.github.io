@@ -47,13 +47,13 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 <b>Teaching and guidance</b>
 - <b>Teaching assistance:<b> Data Mining, Computational Biology, Computer Architecture, Introduction to Data Science and Artificial Intelligence
 - <b>Supervision of undergraduate:<b>
-	<b>1. Xianghe Zhu,<b> University of Bristol, UK, 2020
-	Project: B-cell epitope prediction of potential novel viruses through machine learning techniques \\
-	2. Zihan Luo, Huazhong University of Science and Technology, China, 2020 \\
-	Project: Virulence prediction of influenza A viruses with prior mutation and reassortment knowledge using all 8 segments \\
-	\textbf{3. Jan Dabrowski}, Swansea University, UK, 2019 \\
-	Project: Interpretable modelling of chronic kidney disease progression with recurrent neural networks
-	\textbf{4. Nyi Nyi Thwin}, Nanyang Technological University, Singapore, 2019 \\
+<b>1. Xianghe Zhu,<b> University of Bristol, UK, 2020
+Project: B-cell epitope prediction of potential novel viruses through machine learning techniques 
+<b>2. Zihan Luo,<b> Huazhong University of Science and Technology, China, 2020 
+Project: Virulence prediction of influenza A viruses with prior mutation and reassortment knowledge using all 8 segments 
+<b>3. Jan Dabrowski<b>, Swansea University, UK, 2019 
+Project: Interpretable modelling of chronic kidney disease progression with recurrent neural networks
+<b>4. Nyi Nyi Thwin<b>, Nanyang Technological University, Singapore, 2019 
 	Project: Web-based design and implementation of multi-type influenza genomic data mining and retrieval \\
 	\textbf{5. Ong Wenqi}, Nanyang Technological University, Singapore, 2018 \\
 	Project: Predicting the antigenicity and reassortment probability of influenza viruses \\
