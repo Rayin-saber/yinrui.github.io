@@ -10,4 +10,4 @@ Work-life balance is important! Leading a wonderful life could be the foundation
 <img align="left" src='https://raw.githubusercontent.com/Rayin-saber/yinrui.github.io/master/images/IMG_3147.JPG' width=300 >  
 
 
-<img align="left" src='/images/IMG_3147.JPG' width=300 >  
+<img align="left" src='https://github.com/Rayin-saber/yinrui.github.io/blob/master/images/IMG_3147.JPG' width=300 >  
