@@ -9,5 +9,5 @@ Work-life balance is important! Leading a wonderful life could be the foundation
 
 ![ScreenShot](//images/IMG_3147.JPG)
 
-<img align="left" src='/images/IMG_3147.JPG' width=100 >
+<img align="left" src='/images/IMG_3147.JPG' width=300 >
 <br/><img src='/images/IMG_3147.JPG'>
