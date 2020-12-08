@@ -7,7 +7,5 @@ author_profile: true
 
 Work-life balance is important! Leading a wonderful life could be the foundation of efficient and excellent work. 
 
-![ScreenShot](//images/IMG_3147.JPG)
-
 <img align="left" src='/images/IMG_3147.JPG' width=300 >
-<br/><img src='/images/IMG_3147.JPG'>
+#<br/><img src='/images/IMG_3147.JPG'>
