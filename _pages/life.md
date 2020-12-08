@@ -5,4 +5,4 @@ permalink: /life/
 author_profile: true
 ---
 
-To be updated
+Work-life balance is important! Leading a wonderful life could be the foundation of efficient and excellent work. 
