@@ -62,8 +62,8 @@ Project: Predicting the antigenicity and reassortment probability of influenza v
 Project: The detection of influenza reassortment based on host tropism of genome segments   
 <b>7. Gayle Natalie Ang,</b> Nanyang Technological University, Singapore, 2017   
 Project: Applying machine learning techniques to predict influenza virulence based on its potential origin sequence   
-<b>8. Viet Hung Tran,</b> Hanoi University of Science & Technology, Hanoi, Vietnam, 2017   
-Project: Predicting antigenic variants of H1N1 influenza virus based on epidemics and pandemics using a stacking model
+<b>8. Viet Hung Tran,</b> Hanoi University of Science & Technology, Hanoi, Vietnam, 2017    
+Project: Predicting antigenic variants of H1N1 influenza virus based on epidemics and pandemics using a stacking model  
 <b>9. Chew Li Ting Chery,</b> Nanyang Technological University, Singapore, 2016   
 Project: The detection of virulence factors of influenza  
 <b>10. Tan Jun Qiu,</b> Nanyang Technological University, Singapore, 2016  
