@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a> to apply machine learning-based methods using clinical and genomic datasets to discover subgroups of diseases. I received my Ph.D. degree from School of Computer Science and Engineering, Nanyang Technological University, under the supervison of <a href="https://personal.ntu.edu.sg/asckkwoh/">Dr. Kwoh Chee Keong</a>. My thesis is meta-analysis on the lethality of influenza A viruses using machine learning approaches with dissertation advisory committee members <a href="https://personal.ntu.edu.sg/boan/">Assoc. Professor Bo An</a>,  <a href="https://sentic.net/erikcambria/">Assoc. Professor Erik Cambria</a> and <a href="https://personal.ntu.edu.sg/sinnopan/">Assoc. Professor Sinno Jialin Pan</a>. Before that, I obtained my bachelor's degree and master's degree in Shandong University and Central South University in China, respectively.
+I am currently a research fellow at Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a>. My research focuses on applying and developing ML/AI techniques to address biomedical problems, advance precision medicine and improve healthcare. The ultimate goal of my study is to revolutionize the field of biomedicine through cutting-edge AI technologies and to solve practical biomedical problems in the real world. Previously, I received my Ph.D. degree from School of Computer Science and Engineering, Nanyang Technological University, under the supervison of <a href="https://personal.ntu.edu.sg/asckkwoh/">Dr. Kwoh Chee Keong</a>. My thesis is meta-analysis on the lethality of influenza A viruses using machine learning approaches with dissertation advisory committee members <a href="https://personal.ntu.edu.sg/boan/">Assoc. Professor Bo An</a>,  <a href="https://sentic.net/erikcambria/">Assoc. Professor Erik Cambria</a> and <a href="https://personal.ntu.edu.sg/sinnopan/">Assoc. Professor Sinno Jialin Pan</a>. Before that, I obtained my bachelor's degree and master's degree in Shandong University and Central South University in China, respectively.
 
 
 <b>Research Interest</b>
-- Machine learning in RNA virus
-- Genotype-phenotype association study
-- Significant pattern or biomarker mining
-- Explainable AI in healthcare and precision medicine
+- Computational modeling in RNA viruses (influenza, coronaviruses, zika, etc.)  
+- Machine learning modeling to facilitate the diagnosis of rare/undiagnosed diseases
+- Genotype-phenotype association study for biomarker identification and novel discovery
+- Combination of clinical informatics and genomics to support clinical decision system
+- Interpretable and trustworthy AI to advance health equity
 
 <b>Education</b>
 - Ph.D. in Biomedical Informatics, Nanyang Technological University, Singapore, 2020
