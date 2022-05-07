@@ -12,16 +12,18 @@ You can also find my articles on my<a href="https://scholar.google.com/citations
 - <strong>Yin R</strong>, Gutierre A, Kohane IS, Avillach P, et al. VarPPUD: predicting pathogenicity of gene-variant combinations in the undiagnosed disease patients. Genetics in Medicine, 2022. (under review)	
 - <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods. Briefings in Bioinformatics, 2022. (in revision)
 - Lin Z , Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics. <a href="https://arxiv.org/pdf/2007.14129.pdf">(pdf)</a> (under review)
-- <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022
-- Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16.
+- <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022. <a href="
+https://www.biorxiv.org/content/10.1101/2022.03.24.485635v1.full.pdf">(pdf)</a>
+- Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.817067/full">(pdf)</a>
 
 <font size="5"><b>2021</b></font>
 - <strong>Yin R</strong>, Luo Z, Kwoh CK. Exploring the Lethality of Human-Adapted Coronavirus Through Alignment-Free Machine Learning Approaches Using Genomic Sequences. Current Genomics. 2021 Dec 1;22(8):583-95.. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.176933v1.full.pdf">(pdf)</a>
-- Wu P, Du B, Wang B, <strong>Yin R</strong>, Lv X, Dai Y, Zhang W, Xia K. Joint Analysis of Genome-Wide Association Data Reveals No Genetic Correlations Between Low Back Pain and Neurodegenerative Diseases. Frontiers in genetics. 2021:1717.
+- Wu P, Du B, Wang B, <strong>Yin R</strong>, Lv X, Dai Y, Zhang W, Xia K. Joint Analysis of Genome-Wide Association Data Reveals No Genetic Correlations Between Low Back Pain and Neurodegenerative Diseases. Frontiers in genetics. 2021:1717. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.744299/full">(pdf)</a>
 - <strong>Yin R</strong>, Luo Z, Zhuang P, Zhuoyi Lin, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics. <a href="https://drive.google.com/file/d/1aykYKyApKUB2nSQ-5F-n16EEUUluvewA/view?usp=sharing">(pdf)</a>
 - Lin Z, Feng L, <strong>Yin R</strong>, Xu C, Kwoh CK. GLIMG: Global and local item graphs for top-N recommender systems. Information Sciences. 2021 Nov 1;580:1-4. <a href="https://arxiv.org/pdf/2007.14018.pdf">(pdf)</a>
 - <strong>Yin R</strong>, Yin R, Thwin N N, Zhuang P, Zhuoyi Lin, et al. IAV-CNN: a 2D convolutional neural network model to predict antigenic variants of influenza A virus[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.204883v1.full.pdf">(pdf)</a>
-- Wu PF, Zhang X, Zhou P, <strong>Yin R</strong>, Zhou XT, Zhang W. Growth differentiation factor 15 is associated with Alzheimer's disease risk. Frontiers in Genetics. 2021 Aug 13:1500.
+- Wu PF, Zhang X, Zhou P, <strong>Yin R</strong>, Zhou XT, Zhang W. Growth differentiation factor 15 is associated with Alzheimer's disease risk. Frontiers in Genetics. 2021 Aug 13:1500. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.700371/full">(pdf)</a>
+
 
 <font size="5"><b>2020</b></font>
 - <strong>Yin R</strong>, Luusua E, Dabrowski J, et al. Tempel: Time-series Mutation Prediction of Influenza A Viruses via Attention-based Recurrent Neural Networks[J]. Bioinformatics, 2020. <a href="https://drive.google.com/file/d/1Gh179fn77z95QaKZxAB9EegKYgBCEMOI/view?usp=sharing">(pdf)</a>
