@@ -7,7 +7,15 @@ author_profile: true
 
 You can also find my articles on my<a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en"> Google Scholar profile</a>
 
-<font size="5"><b>Journals</b></font>  
+<font size="5"><b>2022</b></font>  
+
+- <strong>Yin R</strong>, Wack M, Kohane IS, Avillach P, et al. Identification of genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry. American Journal of Human Genetics, 2022. (in submission)
+- <strong>Yin R</strong>, Gutierre A, Kohane IS, Avillach P, et al. VarPPUD: predicting pathogenicity of gene-variant combinations in the undiagnosed disease patients. Genetics in Medicine, 2022. (under review)	
+- <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods. Briefings in Bioinformatics, 2022. (in revision)
+- Lin Z , Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics (under review)
+- <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022
+
+<font size="5"><b>2021</b></font>
 - <strong>Yin R</strong>, Luo Z, Kwoh C K. Alignment-free machine learning approaches for the lethality prediction of potential novel human-adapted coronavirus using genomic nucleotide[J]. bioRxiv, 2020. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.176933v1.full.pdf">(pdf)</a>
 - <strong>Yin R</strong>, Luo Z, Zhuang P, Zhuoyi Lin, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics. <a href="https://drive.google.com/file/d/1aykYKyApKUB2nSQ-5F-n16EEUUluvewA/view?usp=sharing">(pdf)</a>
 - <strong>Yin R</strong>, Yin R, Thwin N N, Zhuang P, Zhuoyi Lin, et al. IAV-CNN: a 2D convolutional neural network model to predict antigenic variants of influenza A virus[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.204883v1.full.pdf">(pdf)</a>
