@@ -52,13 +52,13 @@ Data Mining, Computational Biology, Computer Architecture, Introduction to Data 
 <b>1. Xianghe Zhu,</b> University of Oxford, UK, 2021  
 Project: B-cell epitope prediction of potential novel viruses through machine learning techniques  
 <b>2. Zihan Luo,</b> Huazhong University of Science and Technology, China, 2020  
-Project: Virulence prediction of influenza A viruses with prior mutation and reassortment knowledge using all 8 segments 
+Project: Virulence prediction of influenza A viruses with prior mutation and reassortment knowledge using all 8 segments  
 <b>3. Emil Luusua,</b>  Faculty of Science and Engineering, Linköping University, Sweden, 2020  
-Project: Tempel: time-series mutation prediction of influenza A viruses via attention-based recurrent neural networks
+Project: Tempel: time-series mutation prediction of influenza A viruses via attention-based recurrent neural networks  
 <b>4. Jan Dabrowski,</b> Swansea University, UK, 2019  
-Project: Tempel: time-series mutation prediction of influenza A viruses via attention-based recurrent neural networks
+Project: Tempel: time-series mutation prediction of influenza A viruses via attention-based recurrent neural networks  
 <b>5. Nyi Nyi Thwin,</b> Nanyang Technological University, Singapore, 2019  
-Project: Web-based design and implementation of multi-type influenza genomic data mining and retrieval   
+Project: Web-based design and implementation of multi-type influenza genomic data mining and retrieval    
 <b>6. Ong Wenqi,</b> Nanyang Technological University, Singapore, 2018   
 Project: Predicting the antigenicity and reassortment probability of influenza viruses   
 <b>7. Chan Wei An Darren,</b> Nanyang Technological University, Singapore, 2017   
