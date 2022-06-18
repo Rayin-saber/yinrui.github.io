@@ -1,17 +1,17 @@
 # main links links
 main:
 
-- title: "CV"
-    url: /cv/
+#- title: "CV"
+#    url: /cv/
 
   - title: "Publications"
     url: /publications/
   
-  - title: "Team"
-    url: /team/
+# - title: "Team"
+#    url: /team/
   
-  - title: "Openings"
-    url: /Openings/
+#  - title: "Openings"
+#    url: /Openings/
     
   - title: "Life"
     url: /life/
