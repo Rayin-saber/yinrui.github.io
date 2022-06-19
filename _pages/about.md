@@ -31,14 +31,6 @@ I will join the Department of Health Outcome and Biomedical Informatics, Univers
 - Data Science Intern, Holmusk, Singapore, 2019.10 - 2019.12
 - Software Engineer Intern, Continental Automotive, China, 2012.12 - 2013.3
 
-<b>Awards and honors</b>
-- Research Scholarship, Nanyang Technological University, Singapore, 2016 - 2020
-- Research Scholarship, Central South University, China, 2013 -2016
-- The Excellence in Teaching Assistantship Award, Nanyang Technological University, 2017
-- Second Prize, National Graduate Mathematical Modeling Competition, China, 2013
-- Science and Technology Innovation Scholarship, Shandong University, China, 2013
-- Research and Innovation Scholarship, Shandong University, China, 2012
-- Grand Prize, National Undergraduate Intelligent Car Competition, China (<0.1%), 2012  <a href="https://drive.google.com/file/d/1kber6JpINgj18coxI5XmV4I2bwgHdVDu/view?usp=sharing">(video)</a>
 
 <b>Activities</b>
 - Oral presenter, Joint 30th International Conference on Genome Informatics and Australian Bioinformatics And Computational Biology Society Annual Conference, Sydney, Australia, December 9-11, 2019
