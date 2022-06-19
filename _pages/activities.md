@@ -23,7 +23,6 @@ Conference:
 - ACM Conference on Bioinformatics and Computational Biology  
 - ICML  
 - AAAI  
-
 Journal:  
 - Briefings in Bioinformatics  
 - Bioinformatics  
