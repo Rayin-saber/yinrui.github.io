@@ -13,8 +13,8 @@ main:
   - title: "Team"
     url: /team/
   
-#  - title: "Openings"
-#    url: /Openings/
+  - title: "Position"
+    url: /position/
     
   - title: "Life"
     url: /life/
