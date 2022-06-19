@@ -16,14 +16,13 @@ author_profile: true
 - Guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.  
 
 <b>Invited Reviewer</b>   
-Conference:  
 - International Conference on Bioinformatics  
 - The Asia Pacific Bioinformatics Conference  
 - The International Conference on Genome informatics  
 - ACM Conference on Bioinformatics and Computational Biology  
 - ICML  
 - AAAI  
-Journal:  
+ 
 - Briefings in Bioinformatics  
 - Bioinformatics  
 - Scientific Report  
