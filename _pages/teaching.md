@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching courses
-- Data Mining (
-- Computational Biology ( 
-- Computer Architecture 
-- Introduction to Data Science and Artificial Intelligence 
+<b>Teaching courses</b>
+- Data Mining (2017 Fall, 2018 Fall, teaching assistant)  
+- Computational Biology (2018 Spring, teaching assistant)  
+- Computer Architecture (2019 Spring, teaching assistant)
+- Introduction to Data Science and Artificial Intelligence (2019 Fall, teaching assistant)   
