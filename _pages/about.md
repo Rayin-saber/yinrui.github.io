@@ -24,8 +24,9 @@ I will join the Department of Health Outcome and Biomedical Informatics, Univers
 - B.S. in Automation, Shandong University, China, 2013
 (Exchange in South China University of Technology, 2011)  
 
-<font size="10"><b>News</b></font>
-
+<font size="10"><b>Recent News</b></font>
+- [June-2022] The paper 
+- [May-2022] An invited talk
 
 
 
