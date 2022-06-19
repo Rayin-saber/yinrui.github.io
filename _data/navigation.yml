@@ -19,12 +19,12 @@ main:
   - title: "Team"
     url: /team/
   
-  - title: "Positions"
-    url: /position/
-    
   - title: "Gallery"
     url: /gallery/
-  
+    
+  - title: "Join us"
+    url: /join us/
+    
   - title: "Contact"
     url: /contact/
 
