@@ -1,3 +1,10 @@
+---
+#layout: archive
+#title: "Activities"
+permalink: /activities/
+author_profile: true
+---
+
 <b>Work experience</b>
 - Research Fellow, Harvard Medical School, US, 2020.8 - present
 - Research Associate, Nanyang Technological University, Singapore, 2020.1 - 2020.8
