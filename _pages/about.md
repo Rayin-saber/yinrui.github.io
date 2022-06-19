@@ -29,13 +29,13 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 <font size="5"><b>Recent News</b></font>
 - [June-2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
 - [May-2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
-- [April-2022] Invited talk at Auburn University
-- [April-2022] Invited talk at the University of Florida
-- [April-2022] Invited talk at Emory University.
-- [March-2022] Invited talk at the University of California Irvine.
+- [April-2022] I was invited to give a talk at Auburn University, Auburn, Alabama
+- [April-2022] I was invited to give a talk at the University of Florida, Gainesville, Florida
+- [April-2022] I was invited to give a talk at Emory University, Atlanta, Georgia
+- [March-2022] I was invited to give a talk at the University of California Irvine. (Virtual)
 - [March-2022] New preprint "ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences" is released.
-- [March-2022] Invited talk at the University of Massachusetts.
+- [March-2022] I was invited to give a talk at the University of Massachusetts, Boston, Massachusetts.
 - [March-2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
-- [Feb-2022] Invited talk at Boston University.
+- [Feb-2022] I was invited to give a talk at Boston University, Boston, Massachusetts.
 
 
