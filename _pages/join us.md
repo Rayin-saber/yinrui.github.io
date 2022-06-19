@@ -1,7 +1,7 @@
 ---
 #layout: archive
-#title: "Position"
-permalink: /position/
+#title: "Join us"
+permalink: /join us/
 author_profile: true
 ---
 
