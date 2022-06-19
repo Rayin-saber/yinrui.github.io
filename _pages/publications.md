@@ -9,8 +9,9 @@ You can also find my articles on my<a href="https://scholar.google.com/citations
 
 <font size="5"><b>2022</b></font>  
 - <strong>Yin R</strong>, Wack M, Kohane IS, Avillach P, et al. Identification of genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry. American Journal of Human Genetics, 2022. (in submission)
+- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation. Bioinformatics, 2022. (under review)
 - <strong>Yin R</strong>, Gutierre A, Kohane IS, Avillach P, et al. VarPPUD: predicting pathogenicity of gene-variant combinations in the undiagnosed disease patients. Genetics in Medicine, 2022. (under review)	
-- <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods. Briefings in Bioinformatics, 2022. (in revision)
+- <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods. Briefings in Bioinformatics, 2022. (accepted)
 - Lin Z , Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics. <a href="https://arxiv.org/pdf/2007.14129.pdf">(pdf)</a> (under review)
 - <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022. <a href="https://www.biorxiv.org/content/10.1101/2022.03.24.485635v1.full.pdf">(pdf)</a>
 - Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.817067/full">(pdf)</a>
