@@ -24,7 +24,7 @@ I will join the Department of Health Outcome and Biomedical Informatics, Univers
 - B.S. in Automation, Shandong University, China, 2013
 (Exchange in South China University of Technology, 2011)  
 
-<font size="6"><b>Recent News</b></font>
+<font size="5"><b>Recent News</b></font>
 - [June-2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" has been accepted by Briefings in Bioinformatics.
 
 
