@@ -27,17 +27,17 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 (Exchange in South China University of Technology, 2011)  
 
 <font size="5"><b>Recent News</b></font>
-- [June-2022] Junfeng Wu and Jin Wang joined our lab as research interns, welcome!
-- [June-2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
-- [May-2022] Fan Zhao joined our lab as research assistant, welcome!
-- [May-2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
-- [April-2022] I was invited to give a talk at Auburn University, Auburn, Alabama
-- [April-2022] I was invited to give a talk at the University of Florida, Gainesville, Florida
-- [April-2022] I was invited to give a talk at Emory University, Atlanta, Georgia
-- [March-2022] I was invited to give a talk at the University of California Irvine. (Virtual)
-- [March-2022] New preprint "ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences" is released.
-- [March-2022] I was invited to give a talk at the University of Massachusetts, Boston, Massachusetts.
-- [March-2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
-- [Feb-2022] I was invited to give a talk at Boston University, Boston, Massachusetts.
+- [Jun.2022] Junfeng Wu and Jin Wang joined our lab as research interns, welcome!
+- [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
+- [May.2022] Fan Zhao joined our lab as research assistant, welcome!
+- [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
+- [Apr.2022] I was invited to give a talk at Auburn University, Auburn, Alabama
+- [Apr.2022] I was invited to give a talk at the University of Florida, Gainesville, Florida
+- [Apr.2022] I was invited to give a talk at Emory University, Atlanta, Georgia
+- [Mar.2022] I was invited to give a talk at the University of California Irvine. (Virtual)
+- [Mar.2022] New preprint "ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences" is released.
+- [Mar.2022] I was invited to give a talk at the University of Massachusetts, Boston, Massachusetts.
+- [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
+- [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.
 
 
