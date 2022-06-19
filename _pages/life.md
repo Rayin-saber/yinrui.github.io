@@ -1,7 +1,7 @@
 ---
 #layout: archive
-#title: "Life"
-permalink: /life/
+#title: "Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
