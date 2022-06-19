@@ -5,7 +5,8 @@ permalink: /position/
 author_profile: true
 ---
 
-Multiple funded Ph.D. (2023 Fall) and Postdoc positions (anytime) are available in the Department of Health Outcomes and Biomedical Informatics at the University of Florida. The research focuses on applying and developing ML/AI techniques to address biomedical problems, advance precision medicine and improve healthcare. The ultimate goal of our study is to revolutionize the field of biomedicine through cutting-edge AI technologies and to solve practical biomedical problems in the real world.  
+Multiple funded Ph.D. (2023 Fall) and Postdoc positions (anytime) are available in the Department of Health Outcomes and Biomedical Informatics at the University of Florida. The research focuses on applying and developing ML/AI techniques to address biomedical problems, advance precision medicine and improve healthcare. The ultimate goal of our study is to revolutionize the field of biomedicine through cutting-edge AI technologies and to solve practical biomedical problems in the real world. We have abundant research experience working on machine learning, data mining, NLP, etc., and its application in the biomedical areas. The students will have significant freedom to explore the research they are interested in. Excellent students in our team will have the chance to visit Harvard University. Self-funded students and scholars are also welcomed to reach out to us.
+
 
 <b>Requirements for Ph.D. candidates</b>
 - Strong passion and motivation for research with a desire to solve practical biomedical problems.  
