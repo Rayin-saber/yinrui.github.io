@@ -9,7 +9,10 @@ main:
     
   - title: "Awards"
     url: /awards/  
-    
+
+  - title: "Teaching"
+    url: /teaching/  
+
   - title: "Team"
     url: /team/
   
@@ -25,8 +28,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  
     
 #  - title: "Portfolio"
 #    url: /portfolio/
