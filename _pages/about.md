@@ -27,7 +27,9 @@ I am currently a research fellow at Department of Biomedical Informatics, Harvar
 (Exchange in South China University of Technology, 2011)  
 
 <font size="5"><b>Recent News</b></font>
+- [June-2022] Junfeng Wu and Jin Wang joined our lab as research interns, welcome!
 - [June-2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
+- [May-2022] Fan Zhao joined our lab as research assistant, welcome!
 - [May-2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
 - [April-2022] I was invited to give a talk at Auburn University, Auburn, Alabama
 - [April-2022] I was invited to give a talk at the University of Florida, Gainesville, Florida
