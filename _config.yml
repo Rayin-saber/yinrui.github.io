@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui's personal website"
+title                    : "Rui's lab"
 title_separator          : "-"
 name                     : &name "Rui Yin"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/rui-yin-500a35b5/?trk=public-profile-join-page"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
