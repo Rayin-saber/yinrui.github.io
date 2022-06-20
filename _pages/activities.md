@@ -13,7 +13,7 @@ author_profile: true
 - Software Engineer Intern, Continental Automotive, China, 2012.12 - 2013.3
 
 <b>Editorial Borad</b>  
-- Guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.  
+- Guest Editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.  
 
 <b>Invited Reviewer</b>   
 - International Conference on Bioinformatics  
