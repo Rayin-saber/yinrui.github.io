@@ -18,7 +18,7 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
-- [Jun.2022] Junfeng Wu and Jin Wang joined our lab as research interns, welcome!
+- [Jun.2022] Jin Wang joined our lab as research interns, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
 - [May.2022] Fan Zhao joined our lab as research assistant, welcome!
 - [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
