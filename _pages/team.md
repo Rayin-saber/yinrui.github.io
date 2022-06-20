@@ -13,7 +13,7 @@ author_profile: true
 - Jin Wang  
 
 
-<b>Former student</b>  
+<b>Former mentored student</b>  
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022  
 - <b>Zihan Luo,</b> Huazhong University of Science and Technology, China, 2019-2020  
 - <b>Emil Luusua,</b> Linköping University, Sweden, 2019-2020  
