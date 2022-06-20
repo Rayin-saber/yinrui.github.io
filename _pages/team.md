@@ -9,8 +9,7 @@ author_profile: true
 - Changyu Yin (2022 Fall)  
 
 <b>Master student</b>  
-- Fan Zhao  
-- Junfeng Wu  
+- Fan Zhao   
 - Jin Wang  
 
 
