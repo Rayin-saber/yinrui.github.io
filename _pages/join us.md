@@ -23,6 +23,6 @@ Multiple funded Ph.D. (2023 Fall) and Postdoc positions (anytime) are available 
 
 Interested individuals are encouraged to contact Dr. Rui Yin (yinrui29@gmail.com) with the following information:
 - An updated CV
-- Transcripts if applicable
-- One-page research statement
-- Email subject “PhD/Postdoc Application”
+- Undergraduate and graduate transcripts   
+- One-page research statement if applicable  
+- Email subject “PhD/Postdoc Application”  
