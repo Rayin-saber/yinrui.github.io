@@ -18,7 +18,7 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
-- [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin join our lab, welcome!
+- [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Jin Wang joined our lab as research intern, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
 - [May.2022] Fan Zhao joined our lab as research assistant, welcome!
@@ -27,8 +27,8 @@ redirect_from:
 - [Apr.2022] I was invited to give a talk at Auburn University, Auburn, Alabama.
 - [Apr.2022] I was invited to give a talk at the University of Florida, Gainesville, Florida.
 - [Apr.2022] I was invited to give a talk at Emory University, Atlanta, Georgia.
-- [Mar.2022] I was invited to give a talk at the University of California Irvine. (Virtual)
 - [Mar.2022] New preprint "ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences" is released.
+- [Mar.2022] I was invited to give a talk at the University of California Irvine. (Virtual)
 - [Mar.2022] I was invited to give a talk at the University of Massachusetts, Boston, Massachusetts.
 - [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
 - [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.
