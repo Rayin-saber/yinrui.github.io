@@ -18,6 +18,7 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Jul.2022] Peiyi Zheng joined our lab as research intern, welcome!
 - [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Jin Wang joined our lab as research intern, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
