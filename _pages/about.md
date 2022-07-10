@@ -37,6 +37,6 @@ redirect_from:
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a">
 myElement {
             border:2px solid red;
-            width:100px;
-            height:100px;
+            width:10px;
+            height:10px;
         }</script>
