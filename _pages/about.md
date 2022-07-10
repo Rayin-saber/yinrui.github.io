@@ -34,9 +34,5 @@ redirect_from:
 - [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
 - [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.    
    
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a">
-myElement {
-            border:2px solid red;
-            width:10px;
-            height:10px;
-        }</script>
+<script type="text/javascript" id="clustrmaps" SIZE="10" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a">
+</script>
