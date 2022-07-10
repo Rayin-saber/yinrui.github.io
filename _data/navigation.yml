@@ -25,8 +25,8 @@ main:
   - title: "Join us"
     url: /join us/
     
-  - title: "Contact"
-    url: /contact/
+ # - title: "Contact"
+ #   url: /contact/
 
 #  - title: "Talks"
 #    url: /talks/    
