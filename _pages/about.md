@@ -36,3 +36,15 @@ redirect_from:
    
 <script type="text/javascript" id="clustrmaps" SIZE="10" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a">
 </script>
+
+<script type="text/javascript">
+	function sub(){
+		var a = $("#file").get(0).files[0];
+		//console.log(a.size);
+		if(parseInt(imgWidth)>200||parseInt(imgHeight)>200){
+			alert("200");
+			return false;
+		}
+		//$("#upload").submit();
+	}
+</script>
