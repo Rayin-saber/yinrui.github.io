@@ -34,12 +34,25 @@ redirect_from:
 - [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
 - [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.    
    
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a"> 
-      var mapVar = new Map();
-      mapVar.set('1', 'Java');
-      mapVar.set('2', 'JavaFX');
-      mapVar.set('3', 'HBase');
-      mapVar.set('4', 'Neo4j');
-      document.write("Size of the map object: "+mapVar.size);
-</script>
 
+<script type='text/javascript'>
+    var map;
+
+    function GetMap()
+    {
+        map = new Microsoft.Maps.Map('#myMap', {
+            credentials: 'Your Bing Maps Key',
+            center: new Microsoft.Maps.Location(51.50632, -0.12714),
+            mapTypeId: Microsoft.Maps.MapTypeId.aerial,
+            zoom: 10
+        });
+    }
+
+    function resize() {
+        var mapDiv = document.getElementById('myMap');
+        mapDiv.style.width = 300 + 'px';
+        mapDiv.style.height = 200 + 'px';
+    }
+</script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=a"> 
+</script>
