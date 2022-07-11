@@ -21,7 +21,7 @@ Multiple funded Ph.D. (2023 Fall) and Postdoc positions (anytime) are available 
 - Strong programming and mathematical skills with experience in data mining, machine learning and biomedical informatics.  
 - Demonstration of publications, teamwork and communication in English.  
 
-Interested individuals are encouraged to contact Dr. Rui Yin (yinrui29@gmail.com) with the following information:
+Interested individuals are encouraged to contact Dr. Rui Yin (<A href="mailto:yinrui29@gmail.com">yinrui29@gmail.com</A>) with the following information:
 - An updated CV
 - Undergraduate and graduate transcripts   
 - One-page research statement if applicable  
