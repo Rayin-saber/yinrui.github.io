@@ -35,5 +35,5 @@ redirect_from:
 - [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.    
    
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=100"> 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n9KHZlK5EQXBBjgFgYGJoe_HJrPsBYTt9mMNoLZNZ5c&cl=ffffff&w=500"> 
 </script>
