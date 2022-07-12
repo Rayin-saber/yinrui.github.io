@@ -5,11 +5,11 @@ permalink: /team/
 author_profile: true
 ---
 <b>PhD student</b>  
-- Biao Ye (2022 Fall)
-  M.S. University of Southern California
+- Biao Ye (2022 Fall)  
+  M.S. University of Southern California  
   
-- Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)  
-  M.S. Columbia University
+- Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)    
+  M.S. Columbia University  
 
 <b>Master student</b>  
 - Fan Zhao (M.S. University of Florida)
