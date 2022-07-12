@@ -6,10 +6,10 @@ author_profile: true
 ---
 <b>PhD student</b>  
 - Biao Ye (2022 Fall)  
-- Changyu Yin (2022 Fall)  
+- Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)  
 
 <b>Master student</b>  
-- Fan Zhao   
+- Fan Zhao
 - Jin Wang  
 - Peiyi Zheng
 
