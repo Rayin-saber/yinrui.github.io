@@ -12,9 +12,9 @@ author_profile: true
   M.S. Columbia University  
 
 <b>Master student</b>  
-- Fan Zhao (M.S. University of Florida)
-- Jin Wang (M.S. University of Florida)
-- Peiyi Zheng (M.S. University of Waterloo)
+- Fan Zhao (University of Florida)
+- Jin Wang (University of Florida)
+- Peiyi Zheng (University of Toranto)
 
 <b>Former mentored student</b>  
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022  
