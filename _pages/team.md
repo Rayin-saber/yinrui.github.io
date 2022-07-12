@@ -5,13 +5,16 @@ permalink: /team/
 author_profile: true
 ---
 <b>PhD student</b>  
-- Biao Ye (2022 Fall)  
+- Biao Ye (2022 Fall)
+  M.S. University of Southern California
+  
 - Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)  
+  M.S. Columbia University
 
 <b>Master student</b>  
-- Fan Zhao
-- Jin Wang  
-- Peiyi Zheng
+- Fan Zhao (M.S. University of Florida)
+- Jin Wang (M.S. University of Florida)
+- Peiyi Zheng (M.S. University of Waterloo)
 
 <b>Former mentored student</b>  
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022  
