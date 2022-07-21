@@ -14,7 +14,7 @@ author_profile: true
 <b>Master student</b>  
 - Fan Zhao (University of Florida)
 - Jin Wang (University of Florida)
-- Peiyi Zheng (University of Toranto)
+- Peiyi Zheng (University of Toronto)
 
 <b>Former mentored student</b>  
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022  
