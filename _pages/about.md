@@ -18,6 +18,7 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Aug.2022] Xiaohan Li joined our lab as research graduate student, welcome!
 - [Jul.2022] Peiyi Zheng joined our lab as research intern, welcome!
 - [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Jin Wang joined our lab as research intern, welcome!
