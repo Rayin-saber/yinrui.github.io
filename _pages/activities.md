@@ -27,7 +27,7 @@ author_profile: true
 - Expert Systems with Applications
 - ICML 
 - IEEE Access
-- IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)
+- IEEE International Conference on Bioinformatics and Biomedicine  
 - International Conference on Bioinformatics  
 - Journal of Biomedical and Health Informatics
 - Journal of Signa Vitae 
