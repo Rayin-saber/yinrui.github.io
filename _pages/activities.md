@@ -13,6 +13,7 @@ author_profile: true
 - Software Engineer Intern, Continental Automotive, China, 2012.12 - 2013.3
 
 <b>Editorial Borad</b>  
+- Program Committee member: IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022)   
 - Guest Editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.  
 
 <b>Invited Reviewer</b>   
@@ -26,6 +27,7 @@ author_profile: true
 - Expert Systems with Applications
 - ICML 
 - IEEE Access
+- IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)
 - International Conference on Bioinformatics  
 - Journal of Biomedical and Health Informatics
 - Journal of Signa Vitae 
