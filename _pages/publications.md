@@ -9,6 +9,7 @@ You can also find my articles on my<a href="https://scholar.google.com/citations
 
 <font size="5"><b>2022</b></font>  
 - <strong>Yin R</strong>, Wack M, Kohane IS, Avillach P, et al. Identification of genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry. American Journal of Human Genetics, 2022. (in submission)
+- Gutierre A, Serret-Larmande A, <strong>Yin R</strong>, Avillach P, et al. patient-centric information commons for a national undiagnosed diseases network, 2022. (in preparation)
 - Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation. Bioinformatics, 2022. (under review)
 - <strong>Yin R</strong>, Gutierre A, Kohane IS, Avillach P, et al. VarPPUD: predicting pathogenicity of gene-variant combinations in the undiagnosed disease patients. 2022. (under review)	
 - <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. "A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods." Briefings in Bioinformatics (2022)
