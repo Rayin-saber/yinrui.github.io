@@ -17,6 +17,10 @@ author_profile: true
 - Peiyi Zheng (University of Toronto)  
 - Xiaohan Li (University of Florida)
 
+<b>Undergraduate student</b>
+- Jiaxin Li (Changsha University of Science and Technology)
+- Xiangyu Chen (The Australian National University）
+
 <b>Former mentored student</b>  
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022  
 - <b>Zihan Luo,</b> Huazhong University of Science and Technology, China, 2019-2020  
