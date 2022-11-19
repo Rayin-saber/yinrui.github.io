@@ -18,9 +18,11 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Nov.2022] I am serving as Program Committee member for the 21th Asia Pacific Bioinformatics Conference (APBC).
 - [Nov.2022] Xiangyu Chen joined our lab as a research intern, welcome!
 - [Oct.2022] Jiaxin Li joined our lab as a research undergraduate student, welcome!
 - [Oct.2022] Our collaborative proposal "Computational Drug Repurposing for AD/ADRD with Integrative Analysis of Real-World Data and Biomedical Knowledge was funded by NIA!
+- [Sep.2022] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022).
 - [Aug.2022] Xiaohan Li joined our lab as research graduate student, welcome!
 - [Jul.2022] Peiyi Zheng joined our lab as research intern, welcome!
 - [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
