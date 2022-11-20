@@ -27,7 +27,6 @@ redirect_from:
 - [Jul.2022] Peiyi Zheng joined our lab as research intern, welcome!
 - [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
-- [May.2022] Fan Zhao joined our lab as research assistant, welcome!
 - [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
 - [May.2022] I accpeted the offer from the University of Florida and will join the university as a tenure-track assistant professor this November.
 - [Apr.2022] I was invited to give a talk at Auburn University, Auburn, Alabama.
