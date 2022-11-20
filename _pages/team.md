@@ -12,8 +12,6 @@ author_profile: true
   M.S. Columbia University  
 
 <b>Master student</b>  
-- Fan Zhao (University of Florida)
-- Jin Wang (University of Florida)
 - Peiyi Zheng (University of Toronto)  
 - Xiaohan Li (University of Florida)
 
