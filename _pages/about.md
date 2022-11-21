@@ -18,6 +18,7 @@ redirect_from:
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Nov.2022] Our paper "GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation" was accepted by Briefings in Bioinformatics.  
 - [Nov.2022] I am serving as Program Committee member for the 21th Asia Pacific Bioinformatics Conference (APBC).
 - [Nov.2022] Xiangyu Chen joined our lab as a research intern, welcome!
 - [Oct.2022] Jiaxin Li joined our lab as a research undergraduate student, welcome!
