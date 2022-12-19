@@ -6,19 +6,21 @@ author_profile: true
 ---
 
 <b>Work experience</b>
-- Research Fellow, Harvard Medical School, US, 2020.8 - 2022.11
+- Assistant Professor, University of Florida, US, 2022.12 - present
+- Research Fellow, Harvard Medical School, US, 2020.8 - 2022.12
 - Research Associate, Nanyang Technological University, Singapore, 2020.1 - 2020.8
 - Teaching Assistant, Nanyang Technological University, Singapore, 2016.1 - 2020.1
 - Data Science Intern, Holmusk, Singapore, 2019.10 - 2019.12
 - Software Engineer Intern, Continental Automotive, China, 2012.12 - 2013.3
 
 <b>Editorial Borad</b>  
+- Program Committee member: The 21th Asia Pacific Bioinformatics Conference (APBC 2023)
 - Program Committee member: IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022)   
 - Guest Editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.  
 
 <b>Invited Reviewer</b>   
 - AAAI
-- ACM Conference on Bioinformatics and Computational Biology  
+- ACM Conference on Bioinformatics and Computational Biology 
 - Artificial intelligence in medicine 
 - Bioinformatics 
 - BioSystems
