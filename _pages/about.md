@@ -18,6 +18,14 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+
+- [Mar.2023] Our proposal "Contrastive Convolutional Neural Networks to Predict High-confidence mRNA-miRNA Pairs in Colorectal Cancer Patients" was funded by UF Health Cancer Center as Artifical Intelligence Supplement Pilot & Exploratory Program.
+- [Mar.2023] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023).
+- [Feb.2023] I was appointed as Guest Editor in the journal of Computational Genomics of Frontiers in Genetics.
+- [Feb.2023] I joined UFHealth Cancer Center as a community member.
+- [Jan.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by 21th Asia Pacific Bioinformatics Conference.
+- [Jan.2023] Our paper "A review of the enzyme design in catalytic stability by artificial intelligence" was accepted by Briefings in Bioinformatics.
+- [Dec.2022] I officially started my position as an assistant professor at HOBI, University of Florida
 - [Nov.2022] Our paper "GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation" was accepted by Briefings in Bioinformatics.  
 - [Nov.2022] I am serving as Program Committee member for the 21th Asia Pacific Bioinformatics Conference (APBC).
 - [Nov.2022] Xiangyu Chen joined our lab as a research intern, welcome!
@@ -29,7 +37,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
 - [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
-- [May.2022] I accpeted the offer from the University of Florida and will join the university as a tenure-track assistant professor this November.
+- [May.2022] I accpeted the offer from the University of Florida and will join the university as a tenure-track assistant professor this December.
 - [Apr.2022] I was invited to give a talk at Auburn University, Auburn, Alabama.
 - [Apr.2022] I was invited to give a talk at the University of Florida, Gainesville, Florida.
 - [Apr.2022] I was invited to give a talk at Emory University, Atlanta, Georgia.
