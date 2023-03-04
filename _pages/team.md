@@ -11,8 +11,7 @@ author_profile: true
 - Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)    
   M.S. Columbia University  
 
-<b>Master student</b>  
-- Peiyi Zheng (University of Toronto)  
+<b>Master student</b>   
 - Xiaohan Li (University of Florida)
 
 <b>Undergraduate student</b>
