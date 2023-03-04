@@ -18,7 +18,6 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
-
 - [Mar.2023] Our proposal "Contrastive Convolutional Neural Networks to Predict High-confidence mRNA-miRNA Pairs in Colorectal Cancer Patients" was funded by UF Health Cancer Center as Artifical Intelligence Supplement Pilot & Exploratory Program.
 - [Mar.2023] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023).
 - [Feb.2023] I was appointed as Guest Editor in the journal of Computational Genomics of Frontiers in Genetics.
