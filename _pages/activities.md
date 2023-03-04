@@ -43,7 +43,7 @@ author_profile: true
  
  
 <b>Invited Talks</b>
-- Celebration of Research 2023, with title "AI-driven Precision Medicine to Improve Public Health Outcome and Equity", University of Florida, Gainesville, FL, Febuary 27-28, 2023
+- Celebration of Research 2023, "AI-driven Precision Medicine to Improve Public Health Outcome and Equity", University of Florida, Gainesville, FL, Febuary 27-28, 2023
 - Guest Lecture, "Machine learning modeling in DNA and RNA sequences: applications and opportunities", University of Florida, Febuary 14, 2023
 - Guest Lecture, "Introduction to bioinformatics and its application with machine learning", University of Florida, November 20, 2022
 - Joint 30th International Conference on Genome Informatics and Australian Bioinformatics And Computational Biology Society Annual Conference, Sydney, Australia, December 9-11, 2019
