@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 <b>PhD student</b>  
-- Biao Ye (2023 Fall)  
+- Weimin Meng (2023 Fall)  
   M.S. King's College London  
   
 - Tiacheng Zhou (2023 Fall, Co-sup with Dr. Jiang Bian)    
