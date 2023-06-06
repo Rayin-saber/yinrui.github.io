@@ -5,13 +5,14 @@ permalink: /team/
 author_profile: true
 ---
 <b>PhD student</b>  
-- Biao Ye (2022 Fall)  
-  M.S. University of Southern California  
+- Biao Ye (2023 Fall)  
+  M.S. King's College London  
   
-- Changyu Yin (2022 Fall, Co-sup with Dr. Jiang Bian)    
-  M.S. Columbia University  
+- Tiacheng Zhou (2023 Fall, Co-sup with Dr. Jiang Bian)    
+  M.S. Iowa State University
 
 <b>Master student</b>   
+- Hongru Zhao (Washington University)
 - Xiaohan Li (University of Florida)
 
 <b>Undergraduate student</b>
