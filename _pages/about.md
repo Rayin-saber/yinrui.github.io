@@ -32,7 +32,6 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Oct.2022] Our collaborative proposal "Computational Drug Repurposing for AD/ADRD with Integrative Analysis of Real-World Data and Biomedical Knowledge was funded by NIA!
 - [Sep.2022] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022).
 - [Aug.2022] Xiaohan Li joined our lab as research graduate student, welcome!
-- [Jun.2022] Two Ph.D. students Biao Ye and Changyu Yin joined our lab, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
 - [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
 - [May.2022] I accpeted the offer from the University of Florida and will join the university as a tenure-track assistant professor this December.
