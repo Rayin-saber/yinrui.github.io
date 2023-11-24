@@ -11,8 +11,9 @@ redirect_from:
 I am a tenure-track assistant professor (AI Initiative) at the Department of Health Outcome and Biomedical Informatics, University of Florida. I completed my postdoctoral training at the Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a>. Before that, I received my Ph.D. degree from the School of Computer Science and Engineering, Nanyang Technological University in 2020, under the supervision of <a href="https://personal.ntu.edu.sg/asckkwoh/">Dr. Kwoh Chee Keong</a>. My thesis is meta-analysis on the lethality of influenza A viruses using machine learning approaches, examined by dissertation advisory committee members <a href="https://personal.ntu.edu.sg/boan/">Assoc. Professor Bo An</a>,  <a href="https://sentic.net/erikcambria/">Assoc. Professor Erik Cambria</a> and <a href="https://personal.ntu.edu.sg/sinnopan/">Assoc. Professor Sinno Jialin Pan</a>. I obtained my bachelor's degree and master's degree from Shandong University and Central South University in 2013 and 2015, respectively.
 
 <b>Research Interest</b>
-- Computational modeling in RNA viruses (influenza, coronaviruses, zika, etc.)  
-- Machine learning modeling to facilitate the diagnosis of rare/undiagnosed diseases
+- Protein language model for downstream biomedical tasks (protein design, protein-protein interaction analysis)
+- Computational modeling in RNA viruses (influenza, coronaviruses, Zika, etc.)  
+- Machine learning modeling to facilitate the diagnosis of cancer and rare/undiagnosed diseases
 - Genotype-phenotype association study for biomarker identification and novel discovery
 - Combination of clinical informatics and genomics to support clinical decision system
 - Interpretable and trustworthy AI to advance health equity
@@ -22,7 +23,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Mar.2023] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023).
 - [Feb.2023] I was appointed as Guest Editor in the Journal of Computational Genomics of Frontiers in Genetics.
 - [Feb.2023] I joined UFHealth Cancer Center as a community member.
-- [Jan.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by 21th Asia Pacific Bioinformatics Conference.
+- [Jan.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by the 21st Asia Pacific Bioinformatics Conference.
 - [Jan.2023] Our paper "A review of the enzyme design in catalytic stability by artificial intelligence" was accepted by Briefings in Bioinformatics.
 - [Dec.2022] I officially started my position as an assistant professor at HOBI, University of Florida
 - [Nov.2022] Our paper "GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation" was accepted by Briefings in Bioinformatics.  
@@ -33,7 +34,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Sep.2022] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022).
 - [Aug.2022] Xiaohan Li joined our lab as research graduate student, welcome!
 - [Jun.2022] Our paper “A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods" was accepted by Briefings in Bioinformatics.
-- [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the journal of Frontiers In Genetics.
+- [May.2022] I was appointed as guest editor for Research Topic: Computational Methods to Analyze RNA Data for Human Diseases in the Journal of Frontiers In Genetics.
 - [May.2022] I accepted the offer from the University of Florida and will join the university as a tenure-track assistant professor this December.
 - [Apr.2022] I was invited to give a talk at Auburn University, Auburn, Alabama.
 - [Apr.2022] I was invited to give a talk at the University of Florida, Gainesville, Florida.
@@ -41,7 +42,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Mar.2022] New preprint "ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences" is released.
 - [Mar.2022] I was invited to give a talk at the University of California Irvine. (Virtual)
 - [Mar.2022] I was invited to give a talk at the University of Massachusetts, Boston, Massachusetts.
-- [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was publised at Frontiers in Neuroscience.
+- [Mar.2022] Our paper "Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis" was published at Frontiers in Neuroscience.
 - [Feb.2022] I was invited to give a talk at Boston University, Boston, Massachusetts.    <br />
 <br />
 <br />
