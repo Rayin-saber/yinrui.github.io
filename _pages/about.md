@@ -31,7 +31,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Jue.2023] Pratyush Shukla joined our lab as a graduate research assistant, welcome!
 - [Jul.2023] I was invited to give a talk at the 2023 International Conference on Intelligent Biology and Medicine Workshop, with the topic "Leveraging the power of genomics to facilitate the diagnosis of undiagnosed diseases with machine learning models"
 - [Jul.2023] I am serving as the co-chair for the 2024 IEEE International Conference on Healthcare Informatics Tutorial.
-- [Jue.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
+- [Jun.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
 - [Jun.2023] I was appointed as guest editor for the Special Issue "Computational Modeling in RNA Viruses" in the Journal of MDPI Viruses.
 - [May.2023] Our paper "COMET: Convolutional Dimension Interaction for Collaborative Filtering" was accepted by ACM Transactions on Intelligent Systems and Technology.
 - [May.2023] Our paper "ViPal: A framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences" was accepted by the Journal of Biomedical Informatics.
