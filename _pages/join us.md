@@ -11,7 +11,7 @@ Multiple funded Ph.D. (2024 Fall) and Postdoc positions (anytime) are available 
 <b>Requirements for Ph.D. candidates</b>
 - Strong passion and motivation for research with a desire to solve practical biomedical problems.  
 - Undergraduate or Master students in biomedical informatics/bioinformatics, computer science, electronic/biomedical engineering, mathematics or related majors.  
-- Minimum language requirement (IELTS/TOEFL + GRE) by the university  
+- Minimum language requirement (IELTS/TOEFL) and GRE (optional) by the university  
 - Strong programming with Python/R/C++/Java and/or mathematical skills.  
 - Research experience in data mining, machine learning and statistics. Candidates with publications are preferred.  
 
