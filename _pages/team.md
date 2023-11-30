@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>Postdoc</b> 
-- Qiang Yang
+- Qiang Yang  
   Ph.D. King Abdullah University of Science and Technology
 
 <b>PhD student</b>  
@@ -17,13 +17,13 @@ author_profile: true
   M.S. Iowa State University
 
 <b>Master student</b>   
-- Hongru Zhao (Washington University in St. Louis)
+- Hongru Zhao (Washington University in St. Louis)  
 - Pratyush Shukla (University of Florida)
 
 <b>Undergraduate student</b>
-- Rohit Inampudi (University of Florida)
-- Jiaxin Li (Changsha University of Science and Technology)
-- Xiangyu Chen (The Australian National University）
+- Rohit Inampudi (University of Florida)  
+- Jiaxin Li (Changsha University of Science and Technology)  
+- Xiangyu Chen (The Australian National University  
 
 <b>Former mentored student</b>  
 - <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023
