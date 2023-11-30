@@ -7,14 +7,14 @@ author_profile: true
 
 <b>Postdoc</b> 
 - Qiang Yang   
-  Ph.D. King Abdullah University of Science and Technology
+  Ph.D. from King Abdullah University of Science and Technology
 
 <b>PhD student</b>  
 - Weimin Meng (2023 Fall)  
-  M.S. King's College London  
+  M.S. from King's College London  
   
 - Tiancheng Zhou (2023 Fall, Co-sup with Dr. Jiang Bian)    
-  M.S. Iowa State University
+  M.S. from Iowa State University
 
 <b>Master student</b>   
 - Hongru Zhao (Washington University in St. Louis)  
