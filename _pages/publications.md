@@ -12,9 +12,9 @@ You can also find my articles on my<a href="https://scholar.google.com/citations
 -	Wan, Z., Lin, Z., Rashida, S., Nga, S., Yin, R., Senthilnath, J., Kwoh*, C. (2023). PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
 -	Ye, B., Li, J., Chen, X., Yin, C., Subramaniam, A., Zhang, X., Bian, J., Yin*, R. (2023). MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine, 2023 AMIA Annual Symposium. (Accepted)
 -	Ding, P., Zeng, M., Yin, R.* (2023). Editorial: Computational Methods to Analyze RNA Data for Human Diseases. Frontiers in Genetics.
--	Xu, J., Yin, R., Smith, G., DeKosky, S., & Bian, J. (2023). Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records. AMIA 2023 Annual Symposium.
+-	Xu, J., Yin, R., Smith, G., DeKosky, S., & Bian, J. (2023). Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records. AMIA 2023 Annual Symposium. (Accepted)
 -	Yin, R., Luo, Z., Zhuang, P., Zeng, M., Li, M., Lin, Z., Kwoh, C. K. (2023). ViPal: a framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences. Journal of Biomedical Informatics, 142, 104388.
--	Ye, B.∗, Yin, R.∗, Yin, C., et al. (2023). CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks. The Asia Pacific Bioinformatics
+-	Yin, R., Ye, B.,  Bian J. (2023). CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks. Methods
 -	Ming, Y., Wang, W., Yin, R., et al. (2023). A review of the enzyme design in catalytic stability by artificial intelligence. Briefings in Bioinformatics
 -	Lin, Z., Feng, L., Guo, X., Zhang, Y., Yin, R., Kwoh, C. K., Xu, C. (2023). Comet: Convolutional dimension interaction for collaborative filtering. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-18.
 
