@@ -19,9 +19,27 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
-- [Mar.2023] Our proposal "Contrastive Convolutional Neural Networks to Predict High-confidence mRNA-miRNA Pairs in Colorectal Cancer Patients" was funded by UF Health Cancer Center as Artifical Intelligence Supplement Pilot & Exploratory Program.
+- [Nov.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by Methods.
+- [Nov.2023] Qiang Yang joined my lab as a postdoc researcher, welcome!
+- [Oct.2023] Our paper "HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
+- [Oct.2023] Our paper "PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
+- [Sep.2023] Our paper "Editorial: Computational Methods to Analyze RNA Data for Human Diseases" was accepted by Frontiers in Genetics. 
+- [Sep.2023] I am serving as Editorial Board Member in the Journal of BMC Bioinformatics
+- [Sep.2023] Our proposal "Targeted protein design via constrained denoising diffusion probabilistic models" was funded by the Ministry of Education, Singapore
+- [Aug.2023] Our paper "Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records" was accepted by the 2023 AMIA Annual Symposium
+- [Aug.2023] Our paper "MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine" was accepted by the 2023 AMIA Annual Symposium
+- [Jue.2023] Pratyush Shukla joined our lab as a graduate research assistant, welcome!
+- [Jul.2023] I was invited to give a talk at the 2023 International Conference on Intelligent Biology and Medicine Workshop, with the topic "Leveraging the power of genomics to facilitate the diagnosis of undiagnosed diseases with machine learning models"
+- [Jul.2023] I am serving as the co-chair for the 2024 IEEE International Conference on Healthcare Informatics Tutorial.
+- [Jue.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
+- [Jun.2023] I was appointed as guest editor for the Special Issue "Computational Modeling in RNA Viruses" in the Journal of MDPI Viruses.
+- [May.2023] Our paper "COMET: Convolutional Dimension Interaction for Collaborative Filtering" was accepted by ACM Transactions on Intelligent Systems and Technology.
+- [May.2023] Our paper "ViPal: A framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences" was accepted by the Journal of Biomedical Informatics.
+- [Apr.2023] Hongru Zhao joined our lab as a graduate research assistant, welcome!
+- [Apr.2023] I am serving as a co-chair for the International Conference on Intelligent Biology and Medicine Workshop (ICIBM 2023).
+- [Mar.2023] Our proposal "Contrastive Convolutional Neural Networks to Predict High-confidence mRNA-miRNA Pairs in Colorectal Cancer Patients" was funded by UF Health Cancer Center as Artificial Intelligence Supplement Pilot & Exploratory Program.
 - [Mar.2023] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023).
-- [Feb.2023] I was appointed as Guest Editor in the Journal of Computational Genomics of Frontiers in Genetics.
+- [Feb.2023] I was appointed as the Guest Editor in the Journal of Computational Genomics of Frontiers in Genetics.
 - [Feb.2023] I joined UFHealth Cancer Center as a community member.
 - [Jan.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by the 21st Asia Pacific Bioinformatics Conference.
 - [Jan.2023] Our paper "A review of the enzyme design in catalytic stability by artificial intelligence" was accepted by Briefings in Bioinformatics.
