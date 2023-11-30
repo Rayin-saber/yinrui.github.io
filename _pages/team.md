@@ -4,6 +4,11 @@
 permalink: /team/
 author_profile: true
 ---
+
+<b>Postdoc</b> 
+- Qiang Yang
+  Ph.D. King Abdullah University of Science and Technology
+
 <b>PhD student</b>  
 - Weimin Meng (2023 Fall)  
   M.S. King's College London  
@@ -12,14 +17,16 @@ author_profile: true
   M.S. Iowa State University
 
 <b>Master student</b>   
-- Hongru Zhao (Washington University)
-- Xiaohan Li (University of Florida)
+- Hongru Zhao (Washington University in St. Louis)
+- Pratyush Shukla (University of Florida)
 
 <b>Undergraduate student</b>
+- Rohit Inampudi (University of Florida)
 - Jiaxin Li (Changsha University of Science and Technology)
 - Xiangyu Chen (The Australian National University）
 
 <b>Former mentored student</b>  
+- <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022 (Now Ph.D. at The London School of Economics and Political Science)
 - <b>Zihan Luo,</b> Huazhong University of Science and Technology, China, 2019-2020 (Now Ph.D. at Huazhong University of Science and Technology)
 - <b>Emil Luusua,</b> Linköping University, Sweden, 2019-2020 (Now Master at Stockholm University)
