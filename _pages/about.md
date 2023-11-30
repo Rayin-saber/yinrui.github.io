@@ -28,7 +28,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Sep.2023] Our proposal "Targeted protein design via constrained denoising diffusion probabilistic models" was funded by the Ministry of Education, Singapore
 - [Aug.2023] Our paper "Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records" was accepted by the 2023 AMIA Annual Symposium
 - [Aug.2023] Our paper "MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine" was accepted by the 2023 AMIA Annual Symposium
-- [Jue.2023] Pratyush Shukla joined our lab as a graduate research assistant, welcome!
+- [Aug.2023] Pratyush Shukla joined our lab as a graduate research assistant, welcome!
 - [Jul.2023] I was invited to give a talk at the 2023 International Conference on Intelligent Biology and Medicine Workshop, with the topic "Leveraging the power of genomics to facilitate the diagnosis of undiagnosed diseases with machine learning models"
 - [Jul.2023] I am serving as the co-chair for the 2024 IEEE International Conference on Healthcare Informatics Tutorial.
 - [Jun.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
