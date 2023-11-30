@@ -7,13 +7,21 @@ author_profile: true
 
 You can also find my articles on my<a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en"> Google Scholar profile</a>
 
-<font size="5"><b>2022</b></font>  
-- <strong>Yin R</strong>, Wack M, Kohane IS, Avillach P, et al. Identification of genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry. American Journal of Human Genetics, 2022. (in submission)
-- Gutierre A, Serret-Larmande A, <strong>Yin R</strong>, Avillach P, et al. patient-centric information commons for a national undiagnosed diseases network, 2022. (in preparation)  
-- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation. Bioinformatics, 2022. (under review)
-- <strong>Yin R</strong>, Gutierre A, Kohane IS, Avillach P, et al. VarPPUD: predicting pathogenicity of gene-variant combinations in the undiagnosed disease patients. 2022. (under review)	
+<font size="5"><b>2023</b></font>
+-	Zhou, Z., Glanz, Z., Liu, M., Bian, J., Yin*, R., Gao*, H. (2023). HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
+-	Wan, Z., Lin, Z., Rashida, S., Nga, S., Yin, R., Senthilnath, J., Kwoh*, C. (2023). PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
+-	Ye, B., Li, J., Chen, X., Yin, C., Subramaniam, A., Zhang, X., Bian, J., Yin*, R. (2023). MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine, 2023 AMIA Annual Symposium. (Accepted)
+-	Ding, P., Zeng, M., Yin, R.* (2023). Editorial: Computational Methods to Analyze RNA Data for Human Diseases. Frontiers in Genetics.
+-	Xu, J., Yin, R., Smith, G., DeKosky, S., & Bian, J. (2023). Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records. AMIA 2023 Annual Symposium.
+-	Yin, R., Luo, Z., Zhuang, P., Zeng, M., Li, M., Lin, Z., Kwoh, C. K. (2023). ViPal: a framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences. Journal of Biomedical Informatics, 142, 104388.
+-	Ye, B.∗, Yin, R.∗, Yin, C., et al. (2023). CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks. The Asia Pacific Bioinformatics
+-	Ming, Y., Wang, W., Yin, R., et al. (2023). A review of the enzyme design in catalytic stability by artificial intelligence. Briefings in Bioinformatics
+-	Lin, Z., Feng, L., Guo, X., Zhang, Y., Yin, R., Kwoh, C. K., Xu, C. (2023). Comet: Convolutional dimension interaction for collaborative filtering. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-18.
+
+<font size="5"><b>2022</b></font>   
+- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation. Briefings in Bioinformatics (2022)
 - <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. "A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods." Briefings in Bioinformatics (2022)
-- Lin Z , Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics. <a href="https://arxiv.org/pdf/2007.14129.pdf">(pdf)</a> (under review)
+- Lin Z, Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics. <a href="https://arxiv.org/pdf/2007.14129.pdf">(pdf)</a> (under review)
 - <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022. <a href="https://www.biorxiv.org/content/10.1101/2022.03.24.485635v1.full.pdf">(pdf)</a>
 - Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.817067/full">(pdf)</a>
 
