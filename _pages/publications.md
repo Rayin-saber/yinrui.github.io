@@ -19,10 +19,8 @@ You can also find my articles on my<a href="https://scholar.google.com/citations
 -	Lin, Z., Feng, L., Guo, X., Zhang, Y., Yin, R., Kwoh, C. K., Xu, C. (2023). Comet: Convolutional dimension interaction for collaborative filtering. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-18.
 
 <font size="5"><b>2022</b></font>   
-- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation. Briefings in Bioinformatics (2022)
+- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence-to-graph transformation. Briefings in Bioinformatics (2022)
 - <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. "A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods." Briefings in Bioinformatics (2022)
-- Lin Z, Feng L, Guo X, <strong>Yin R</strong>, Kwoh CK, Xu X. COMET: Convolutional Dimension Interaction for Deep Matrix Factorization. IEEE Transactions on Cybernetics. <a href="https://arxiv.org/pdf/2007.14129.pdf">(pdf)</a> (under review)
-- <strong>Yin R</strong>, Luo Z, Zhuang P, Kwoh CK, Lin Z. ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences. bioRxiv. 2022. <a href="https://www.biorxiv.org/content/10.1101/2022.03.24.485635v1.full.pdf">(pdf)</a>
 - Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.817067/full">(pdf)</a>
 
 <font size="5"><b>2021</b></font>
