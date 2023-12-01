@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my<a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en"> Google Scholar profile</a>
 
 <font size="5"><b>2023</b></font>
--	Zhou, Z., Glanz, Z., Liu, M., Bian, J., Yin, R.*, Gao*, H.* (2023). HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
+-	Zhou, Z., Glanz, Z., Liu, M., Bian, J., Yin, R.\*, Gao, H.\* (2023). HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
 -	Wan, Z., Lin, Z., Rashida, S., Nga, S., Yin, R., Senthilnath, J., Kwoh*, C. (2023). PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
 -	Ye, B., Li, J., Chen, X., Yin, C., Subramaniam, A., Zhang, X., Bian, J., Yin*, R. (2023). MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine, 2023 AMIA Annual Symposium. (Accepted)
 -	Ding, P., Zeng, M., Yin, R.* (2023). Editorial: Computational Methods to Analyze RNA Data for Human Diseases. Frontiers in Genetics.
