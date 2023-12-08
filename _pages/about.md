@@ -19,6 +19,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Dec.2023] Our paper "LncLocFormer: a Transformer-based deep learning model for multi-label lncRNA subcellular localization prediction by using localization-specific attention mechanism" was accepted by Bioinformatics. 
 - [Nov.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by Methods.
 - [Nov.2023] Qiang Yang joined my lab as a postdoc researcher, welcome!
 - [Oct.2023] Our paper "HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
