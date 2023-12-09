@@ -23,7 +23,7 @@ author_profile: true
 <b>Undergraduate student</b>
 - Rohit Inampudi (University of Florida)  
 - Jiaxin Li (Changsha University of Science and Technology)  
-- Xiangyu Chen (The Australian National University  
+- Xiangyu Chen (The Australian National University)  
 
 <b>Former mentored student</b>  
 - <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023
