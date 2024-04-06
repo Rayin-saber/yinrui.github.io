@@ -21,6 +21,7 @@ author_profile: true
 - Pratyush Shukla (University of Florida)
 
 <b>Undergraduate student</b>
+- Daphne Calin (University of Florida) 
 - Rohit Inampudi (University of Florida)  
 - Jiaxin Li (Changsha University of Science and Technology)  
 - Xiangyu Chen (The Australian National University)  
