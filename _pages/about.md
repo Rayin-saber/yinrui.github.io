@@ -22,7 +22,8 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Mar.2024] Our paper "An Interpretable Population Graph Network to Identify Rapid Progression of Alzheimer's Disease Using UK Biobank" was online at MedRxiv.
 - [Feb.2024] Our proposal "Semantic Embedded Graph Neural Networks to Unravel miRNA Targets in Colorectal Cancer" was funded by UF College of Medicine’s Office of Research and the Intelligent Clinical Care Center.
 - [Feb.2024] Our paper "EF-Net: Mental State Recognition by Analyzing Multimodal EEG-fNIRS via CNN" was accepted by MDPI Sensors.
-- [Feb.2024] I am serving as a panel reviewer in NSF. 
+- [Feb.2024] I am serving as a panel reviewer in NSF.
+- [Jan.2024] Our paper "Changes in Cyclic Guanosine Monophosphate Channel of 661w Cells In vitro with Excessive Light Time" was accepted by the Journal of Ophthalmic & Vision Research.
 - [Jan.2024] I am serving as an Associate Editor in the Journal of Heliyon, Bioinformatics and Computational Biology Section.
 - [Jan.2024] Our paper "SGCL-LncLoc: an interpretable deep learning model for improving lncRNA subcellular localization prediction with supervised graph contrastive learning" was accepted by Big Data Mining and Analytics.
 - [Jan.2024] Daphne Calin joined our lab as an undergraduate research assistant, welcome!
