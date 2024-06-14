@@ -20,6 +20,9 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
  
 <font size="5"><b>Recent News</b></font>
 - [Jun.2024] Lin Li joined our lab as a PhD student, welcome!
+- [Jun.2024] I gave a presentation at the IEEE International Conference on Healthcare Informatics (ICHI) 2024, with the topic "Interpretable AI (XAI) on Graphs and Its Applications in Biomedicine".
+- [Apr.2024] Our paper "Gra-CRC-miRTar: The pre-trained nucleotide-to-graph neural networks to identify potential miRNA targets in colorectal cancer" was online at BioRxiv.
+- [Apr.2024] Our paper "VarPPUD: Variant post prioritization developed for undiagnosed genetic disorders" was online at MedRxiv.
 - [Apr.2024] Hongru Zhao accepted the PhD offer from Michigan State University, congratulations!
 - [Mar.2024] Our paper "An Interpretable Population Graph Network to Identify Rapid Progression of Alzheimer's Disease Using UK Biobank" was online at MedRxiv.
 - [Feb.2024] Our proposal "Semantic Embedded Graph Neural Networks to Unravel miRNA Targets in Colorectal Cancer" was funded by UF College of Medicine’s Office of Research and the Intelligent Clinical Care Center.
