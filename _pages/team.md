@@ -10,21 +10,21 @@ author_profile: true
   Ph.D. from King Abdullah University of Science and Technology
 
 <b>PhD student</b>  
+- Lin Li (2024 Fall)    
+  M.S. from Washington University in St. Louis
+
 - Weimin Meng (2023 Fall)  
   M.S. from King's College London  
   
-- Tiancheng Zhou (2023 Fall, Co-sup with Dr. Jiang Bian)    
-  M.S. from Iowa State University
-
 <b>Master student</b>   
 - Hongru Zhao (Washington University in St. Louis)  
 - Pratyush Shukla (University of Florida)
+- Jiaxin Li (Nanyang Technological University of Singapore)  
+- Xiangyu Chen (The Australian National University)  
 
 <b>Undergraduate student</b>
 - Daphne Calin (University of Florida) 
 - Rohit Inampudi (University of Florida)  
-- Jiaxin Li (Changsha University of Science and Technology)  
-- Xiangyu Chen (The Australian National University)  
 
 <b>Former mentored student</b>  
 - <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023
