@@ -19,6 +19,8 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Jun.2024] Lin Li joined our lab as a PhD student, welcome!
+- [Apr.2024] Hongru Zhao accepted the PhD offer from Michigan State University, congratulations!
 - [Mar.2024] Our paper "An Interpretable Population Graph Network to Identify Rapid Progression of Alzheimer's Disease Using UK Biobank" was online at MedRxiv.
 - [Feb.2024] Our proposal "Semantic Embedded Graph Neural Networks to Unravel miRNA Targets in Colorectal Cancer" was funded by UF College of Medicine’s Office of Research and the Intelligent Clinical Care Center.
 - [Feb.2024] Our paper "EF-Net: Mental State Recognition by Analyzing Multimodal EEG-fNIRS via CNN" was accepted by MDPI Sensors.
@@ -30,7 +32,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Dec.2023] Our paper "Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity in AI and Machine Learning: Modified Delphi Approach" was accepted by JMIR AI. 
 - [Dec.2023] Our paper "LncLocFormer: a Transformer-based deep learning model for multi-label lncRNA subcellular localization prediction by using localization-specific attention mechanism" was accepted by Bioinformatics. 
 - [Nov.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by Methods.
-- [Nov.2023] Qiang Yang joined my lab as a postdoc researcher, welcome!
+- [Nov.2023] Qiang Yang joined our lab as a postdoc researcher, welcome!
 - [Oct.2023] Our paper "HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
 - [Oct.2023] Our paper "PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
 - [Sep.2023] Our paper "Editorial: Computational Methods to Analyze RNA Data for Human Diseases" was accepted by Frontiers in Genetics. 
@@ -42,6 +44,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Jul.2023] I was invited to give a talk at the 2023 International Conference on Intelligent Biology and Medicine Workshop, with the topic "Leveraging the power of genomics to facilitate the diagnosis of undiagnosed diseases with machine learning models"
 - [Jul.2023] I am serving as the co-chair for the 2024 IEEE International Conference on Healthcare Informatics Tutorial.
 - [Jun.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
+- [Jun.2023] Weimin Meng joined our lab as a PhD student, welcome!
 - [Jun.2023] I was appointed as guest editor for the Special Issue "Computational Modeling in RNA Viruses" in the Journal of MDPI Viruses.
 - [May.2023] Our paper "COMET: Convolutional Dimension Interaction for Collaborative Filtering" was accepted by ACM Transactions on Intelligent Systems and Technology.
 - [May.2023] Our paper "ViPal: A framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences" was accepted by the Journal of Biomedical Informatics.
