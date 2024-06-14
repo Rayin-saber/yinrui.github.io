@@ -11,9 +11,9 @@ redirect_from:
 I am a tenure-track assistant professor (AI Initiative) at the Department of Health Outcome and Biomedical Informatics, University of Florida. I completed my postdoctoral training at the Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a>. Before that, I received my Ph.D. degree from the School of Computer Science and Engineering, Nanyang Technological University in 2020, under the supervision of <a href="https://personal.ntu.edu.sg/asckkwoh/">Dr. Kwoh Chee Keong</a>. My thesis is meta-analysis on the lethality of influenza A viruses using machine learning approaches, examined by dissertation advisory committee members <a href="https://personal.ntu.edu.sg/boan/">Assoc. Professor Bo An</a>,  <a href="https://sentic.net/erikcambria/">Assoc. Professor Erik Cambria</a> and <a href="https://personal.ntu.edu.sg/sinnopan/">Assoc. Professor Sinno Jialin Pan</a>. I obtained my bachelor's degree and master's degree from Shandong University and Central South University in 2013 and 2015, respectively.
 
 <b>Research Interest</b>
-- Protein language model for downstream biomedical tasks (protein design, protein-protein interaction analysis)
+- Protein language model for downstream biomedical tasks (protein/drug design, protein-protein interaction)
 - Computational modeling in RNA viruses (influenza, coronaviruses, Zika, etc.)  
-- Machine learning modeling to facilitate the diagnosis of cancer and rare/undiagnosed diseases
+- Machine learning modeling in AD/ADRD, diagnosis of cancer and rare/undiagnosed diseases
 - Genotype-phenotype association study for biomarker identification and novel discovery
 - Combination of clinical informatics and genomics to support clinical decision system
 - Interpretable and trustworthy AI to advance health equity
