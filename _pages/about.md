@@ -19,6 +19,13 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and trustworthy AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Sep.2024] Our proposal "The Nucleotide-to-Graph Language Models for Identifying miRNA-Target Interactions in Colorectal Cancer Patients" was funded by the Elsa U. Pardee Foundation.
+- [Aug.2024] Our paper "Phenome-wide profiling identifies genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry" was published in the Journal of Molecular Autism.
+- [Aug.2024] Our paper "SGCL-LncLoc: An Interpretable Deep Learning Model for Improving IncRNA Subcellular Localization Prediction with Supervised Graph Contrastive Learning" was published in the Journal of Big Data Mining and Analytics.
+- [Jul.2024] Our paper "Autoencoder to Identify Sex-Specific Sub-phenotypes in Alzheimer's Disease Progression Using Longitudinal Electronic Health Records" was online at MedRxiv.
+- [Jul.2024] Our paper "BertSNR: an interpretable deep learning framework for single-nucleotide resolution identification of transcription factor binding sites based on DNA language model" was published in the Journal of Bioinformatics.
+- [Jul.2024] Our paper "BertSNR: an interpretable deep learning framework for single-nucleotide resolution identification of transcription factor binding sites based on DNA language model" was online at Bioinformatics.
+- [Jun.2024] Mengting Xiong joined our lab as a Research Coordinator, welcome!
 - [Jun.2024] Lin Li joined our lab as a PhD student, welcome!
 - [Jun.2024] I gave a presentation at the IEEE International Conference on Healthcare Informatics (ICHI) 2024, with the topic "Interpretable AI (XAI) on Graphs and Its Applications in Biomedicine".
 - [Apr.2024] Our paper "Gra-CRC-miRTar: The pre-trained nucleotide-to-graph neural networks to identify potential miRNA targets in colorectal cancer" was online at BioRxiv.
