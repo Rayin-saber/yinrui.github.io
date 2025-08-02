@@ -19,6 +19,13 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and causal AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Jun.2025] Our paper "FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D" was online at MedRxiv and accepted for oral presentation at the 2025 AMIA Annual Symposium.
+- [May.2025] Our paper "MTLNFM: A Multi-task Framework Using Neural Factorization Machines to Predict Patient Clinical Outcomes" was online at MedRxiv.
+- [Apr.2025] Our paper "AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records" was online at MedRxiv and accepted for a flash talk at the 2025 ICIBM conference. 
+- [Apr.2025] Our paper "RNALoc-LM: RNA subcellular localization prediction using pre-trained RNA language model" was published in the Journal of Bioinformatics
+- [Mar.2025] Our paper "SEHI-PPI: An End-to-End Sampling-Enhanced Human-Influenza Protein-Protein Interaction Prediction Framework with Double-View Learning" was online at BioRxiv. 
+- [Jan.2025] Our paper "Social Determinants of Healthy Aging: An Investigation using the All of Us Cohort" was online at MedRxiv.
+- [Oct.2024] Our paper "Blood-tumor barrier organoids recapitulate glioblastoma microenvironment and enable high-throughput modeling of therapeutic delivery" was online at BioRxiv. 
 - [Sep.2024] Our proposal "The Nucleotide-to-Graph Language Models for Identifying miRNA-Target Interactions in Colorectal Cancer Patients" was funded by the Elsa U. Pardee Foundation.
 - [Aug.2024] Our paper "Phenome-wide profiling identifies genotype-phenotype associations in Phelan-McDermid syndrome using family-sourced data from an international registry" was published in the Journal of Molecular Autism.
 - [Aug.2024] Our paper "SGCL-LncLoc: An Interpretable Deep Learning Model for Improving IncRNA Subcellular Localization Prediction with Supervised Graph Contrastive Learning" was published in the Journal of Big Data Mining and Analytics.
