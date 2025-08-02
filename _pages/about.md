@@ -19,6 +19,9 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and causal AI to advance health equity
  
 <font size="5"><b>Recent News</b></font>
+- [Aug.2025] I am collaborating in an NIGMS R35 project as Site PI to support the discovery of drug effects in cancer and dementia.
+- [Aug.2025] Our proposal "Leveraging AI to Decipher microRNA mis-regulation in Colorectal Cancer" was funded by the Florida Department of Health.
+- [Jul.2025] Our proposal of AI modeling to identify m7G modification sites in cancer was funded by UF Health AI Pilot and Exploratory Study
 - [Jun.2025] Our paper "FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D" was online at MedRxiv and accepted for oral presentation at the 2025 AMIA Annual Symposium.
 - [May.2025] Our paper "MTLNFM: A Multi-task Framework Using Neural Factorization Machines to Predict Patient Clinical Outcomes" was online at MedRxiv.
 - [Apr.2025] Our paper "AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records" was online at MedRxiv and accepted for a flash talk at the 2025 ICIBM conference. 
