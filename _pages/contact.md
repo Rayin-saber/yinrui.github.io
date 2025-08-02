@@ -8,7 +8,7 @@ author_profile: true
 
 Address: Department of Health Outcomes and Biomedical Informatics, University of Florida,
 
-2004 Mowry Road Gainesville, FL 32610
+1889 Museum Rd, Gainesville, FL 32606
 
 Email: <A href="mailto:ruiyin@ufl.edu ">ruiyin@ufl.edu</A>
 
