@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>Postdoc</b> 
-- Qiang Yang   
+- Qiang Yang  (2024 - present)  
   Ph.D. from King Abdullah University of Science and Technology
 
 <b>PhD student</b> 
