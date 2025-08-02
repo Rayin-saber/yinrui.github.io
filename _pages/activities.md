@@ -41,7 +41,8 @@ author_profile: true
 - Journal of Microsystems & Nanoengineering
 - Journal of Signa Vitae 
 - Journal of Theoretical and Computational Chemistry
-- PeerJ 
+- PeerJ
+- Nature Biotechnology
 - Scientific Report  
 - The Asia Pacific Bioinformatics Conference  
 - The International Conference on Genome Informatics  
