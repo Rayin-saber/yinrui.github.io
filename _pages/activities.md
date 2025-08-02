@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>Work experience</b>
-- Assistant Professor, University of Florida, US, 2022.12 - present
+- Assistant Professor, University of Florida, US, 2023.1 - present
 - Research Fellow, Harvard Medical School, US, 2020.8 - 2022.12
 - Research Associate, Nanyang Technological University, Singapore, 2020.1 - 2020.8
 - Teaching Assistant, Nanyang Technological University, Singapore, 2016.1 - 2020.1
