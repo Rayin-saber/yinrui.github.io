@@ -9,20 +9,25 @@ One Ph.D. (2026 Fall) and one Postdoc position (anytime) are available in the De
 
 
 <b>Requirements for Ph.D. candidates</b>
-- Strong passion and motivation for research with a desire to solve practical biomedical problems.  
-- Undergraduate or Master students in biomedical informatics/bioinformatics, computer science, electronic/biomedical engineering, mathematics or related majors.  
-- Minimum language requirement (IELTS/TOEFL) and GRE (optional) by the university  
-- Strong programming with Python/R/C++/Java and/or mathematical skills.  
-- Research experience in data mining, machine learning and statistics. Candidates with publications are preferred.  
+- Strong passion and motivation for research with a desire to solve practical biomedical problems with AI/CS.
+- Undergraduate or Master students in biomedical informatics/bioinformatics, computer science, data science, electronic/biomedical engineering, mathematics or related majors.
+- IELTS/TOEFL (GRE is optional).
+- Strong programming with Python/R/C++/Java and mathematical skills.
+- Research experience and skills in data mining, machine learning and LLM/NLP/PLM in biomedical domains.
+- Candidates with publications (first or co-first author) are preferred.
+
 
 <b>Requirements for Postdocs</b>
-- Strong passion and motivation for research with a desire to solve practical biomedical problems.  
-- Ph.D. degree in biomedical informatics, bioinformatics, computer science, electronic/biomedical engineering, mathematics or related majors.  
-- Strong programming and mathematical skills with experience in data mining, machine learning and biomedical informatics.  
-- Demonstration of publications, teamwork and communication in English.  
+- Strong passion and motivation for research with a desire to solve practical biomedical problems.
+- Ph.D. degree in biomedical informatics/bioinformatics, computer science, data science, electronic/biomedical engineering, mathematics or related majors.
+- Research experience and expertise in data mining, machine learning and LLM/NLP/PLM in biomedical domains.
+- Domain knowledge in one of the diseases, including AD/ADRD, cancer, diabetes, liver disease and infectious diseases (e.g., autoimmune or other immune-related diseases). 
+- Demonstration of publications, teamwork and communication in English. 
+- Experience in grant writing (optional but advantageous). 
+
+ 
 
 Interested individuals are encouraged to contact Dr. Rui Yin (<A href="mailto:ruiyin@ufl.edu">ruiyin@ufl.edu</A>) with the following information:
 - Curriculum vitae
-- Undergraduate and graduate transcripts   
-- One-page research statement if applicable  
-- Email subject “PhD/Postdoc Application”  
+- Undergraduate and graduate transcripts for PhD applicants.
+- Research statement and future interest for Postdoc applicants (PhD applicants are also encouraged to send a research statement).  
