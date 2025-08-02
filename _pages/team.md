@@ -9,25 +9,34 @@ author_profile: true
 - Qiang Yang   
   Ph.D. from King Abdullah University of Science and Technology
 
-<b>PhD student</b>  
+<b>PhD student</b> 
+- Ziying Zhang (2025 Fall)    
+  Ph.D. from King's College London (visiting PhD student)
+
+- Mohammad Shafieinouri (2025 Summer)    
+  MD-PhD program from the University of Florida (rotating PhD student)
+  
 - Lin Li (2024 Fall)    
   M.S. from Washington University in St. Louis
 
 - Weimin Meng (2023 Fall)  
   M.S. from King's College London  
   
-<b>Master student</b>   
-- Hongru Zhao (Washington University in St. Louis)  
-- Pratyush Shukla (University of Florida)
+<b>Master student</b>  
+- Praneeth Buchepalli (University of Florida)
 - Jiaxin Li (Nanyang Technological University of Singapore)  
 - Xiangyu Chen (The Australian National University)  
 
 <b>Undergraduate student</b>
+- Elias Missa (Jacksonville University)
+- Jiaxin Li (Hunan University)
 - Daphne Calin (University of Florida) 
 - Rohit Inampudi (University of Florida)  
 
 <b>Former mentored student</b>  
-- <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023
+- <b>Hongru Zhao,</b> Washington University in St. Louis, USA, 2023-2024 (Now Ph.D at Michigan State University)
+- <b>Pratyush Shukla,</b> University of Florida, USA, 2023-2024
+- <b>Xiaohan Li,</b> University of Florida, USA, 2022 - 2023, (Now Ph.D, University of Florida)
 - <b>Xianghe Zhu,</b> University of Oxford, UK, 2020-2022 (Now Ph.D. at The London School of Economics and Political Science)
 - <b>Zihan Luo,</b> Huazhong University of Science and Technology, China, 2019-2020 (Now Ph.D. at Huazhong University of Science and Technology)
 - <b>Emil Luusua,</b> Linköping University, Sweden, 2019-2020 (Now Master at Stockholm University)
