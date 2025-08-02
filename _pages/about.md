@@ -11,12 +11,12 @@ redirect_from:
 I am a tenure-track assistant professor (AI Initiative) at the Department of Health Outcome and Biomedical Informatics, University of Florida. I completed my postdoctoral training at the Department of Biomedical Informatics, Harvard Medical School, working with <a href="https://avillach-lab.hms.harvard.edu/">Dr. Paul Avillach</a>. Before that, I received my Ph.D. degree from the School of Computer Science and Engineering, Nanyang Technological University of Singapore in 2020, under the supervision of <a href="https://personal.ntu.edu.sg/asckkwoh/">Dr. Kwoh Chee Keong</a>. My thesis is meta-analysis on the lethality of influenza A viruses using machine learning approaches, examined by the dissertation advisory committee members <a href="https://personal.ntu.edu.sg/boan/">Professor Bo An</a>,  <a href="https://sentic.net/erikcambria/">Professor Erik Cambria</a> and <a href="https://www.cse.cuhk.edu.hk/~sinnopan/">Professor Sinno Jialin Pan</a>. I obtained my bachelor's degree and master's degree from Shandong University and Central South University in 2013 and 2015, respectively.
 
 <b>Research Interest</b>
-- NLP and Protein language model for downstream biomedical tasks (protein/drug design, protein-protein interaction, clinical notes extraction)
-- Computational modeling in RNA viruses, immunology and infectious disease (influenza, coronaviruses, Zika, etc.)
-- Machine learning modeling in AD/ADRD, diagnosis of cancer, diabetes, liver disease and rare/undiagnosed diseases
-- Genotype-phenotype association study for biomarker identification and novel discovery
-- Combination of clinical informatics and genomics to support clinical decision systems
-- Interpretable and causal AI to advance health equity
+- LLM, NLP and PLM (protein language model) for downstream biomedical tasks (protein design, protein-protein interaction, miRNA-disease association, clinical notes extraction and entity recognition).
+- Computational modeling in RNA viruses, immunology and infectious disease (influenza, coronaviruses, etc.).
+- Machine learning modeling to facilitate the diagnosis and treatment of AD/ADRD, cancer, diabetes and liver disease, and rare/undiagnosed diseases.
+- Genotype-phenotype association study for biomarker identification and novel discovery.
+- Combination of clinical informatics and genomics to support clinical decision systems.
+- Interpretable and causal AI to advance health equity and improve patient outcomes.
  
 <font size="5"><b>Recent News</b></font>
 - [Aug.2025] I am collaborating in an NIGMS R35 project as Site PI to support the discovery of drug effects in cancer and dementia.
