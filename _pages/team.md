@@ -23,6 +23,7 @@ author_profile: true
   M.S. from King's College London  
   
 <b>Master student</b>  
+- Muyuchen (Selina) Shi (UCSF & UC Berkeley)
 - Praneeth Buchepalli (University of Florida)
 - Jiaxin Li (Nanyang Technological University of Singapore)  
 - Xiangyu Chen (The Australian National University)  
