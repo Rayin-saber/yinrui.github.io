@@ -19,6 +19,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and causal AI to advance health equity and improve patient outcomes.
  
 <font size="5"><b>Recent News</b></font>
+- [Aug.2025] Muyuchen (Selina) Shi joined our lab as a research assistant, welcome!
 - [Aug.2025] I am collaborating in an NIGMS R35 project as Site PI to support the discovery of drug effects in cancer and dementia.
 - [Aug.2025] Our proposal "Leveraging AI to Decipher microRNA mis-regulation in Colorectal Cancer" was funded by the Florida Department of Health.
 - [Jul.2025] Our proposal of AI modeling to identify m7G modification sites in cancer was funded by UF Health AI Pilot and Exploratory Study
