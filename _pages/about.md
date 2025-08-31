@@ -29,7 +29,6 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Jun.2025] Our paper "FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D" was online at MedRxiv and accepted for oral presentation at the 2025 AMIA Annual Symposium.
 - [Jun.2025] Ziying Zhang, PhD candidate at King's College London, joined our lab as a visiting PhD student. 
 - [Jun.2025] Mohammad Shafieinouri, PhD-MD student at the University of Florida, joined our lab for rotation. Welcome!
-- [May.2025] Elias Missa joined our lab as a voluntary research assistant. Welcome!
 - [May.2025] Our paper "MTLNFM: A Multi-task Framework Using Neural Factorization Machines to Predict Patient Clinical Outcomes" was online at MedRxiv.
 - [May.2025] I served as a Panel Reviewer for the University of Florida R01 BootCamp Program.
 - [Apr.2025] Our paper "AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records" was online at MedRxiv and accepted for a flash talk at the 2025 ICIBM conference. 
