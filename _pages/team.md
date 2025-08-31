@@ -23,13 +23,15 @@ author_profile: true
   M.S. from King's College London  
   
 <b>Master student</b>  
+- Meichuan Yin (Washington University in St. Louis)
+- Zhuobiao Qiao (University of Florida)
+- Fukun Chen (University of Florida)
 - Muyuchen (Selina) Shi (UCSF & UC Berkeley)
 - Praneeth Buchepalli (University of Florida)
 - Jiaxin Li (Nanyang Technological University of Singapore)  
 - Xiangyu Chen (The Australian National University)  
 
 <b>Undergraduate student</b>
-- Elias Missa (Jacksonville University)
 - Jiaxin Li (Hunan University)
 - Daphne Calin (University of Florida) 
 - Rohit Inampudi (University of Florida)  
