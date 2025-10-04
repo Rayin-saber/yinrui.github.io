@@ -19,16 +19,17 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - Interpretable and causal AI to advance health equity and improve patient outcomes.
  
 <font size="5"><b>Recent News</b></font>
-- [Sep.2025] Meichuan Yin joined our lab as a research assistant, welcome!
-- [Aug.2025] Zhuobiao Qiao joined our lab as a research assistant, welcome!
+- [Sep.2025] Meichuan Yin joined our lab as a research assistant. Welcome!
 - [Aug.2025] Fukun Chen joined our lab as a research assistant, welcome!
-- [Aug.2025] Muyuchen (Selina) Shi joined our lab as a research assistant, welcome!
+- [Aug.2025] Muyuchen (Selina) Shi joined our lab as a research assistant. Welcome!
+- [Aug.2025] Praneeth Buchepalli joined our lab as a research assistant. Welcome!
 - [Aug.2025] I am collaborating in an NIGMS R35 project as Site PI to support the discovery of drug effects in cancer and dementia.
 - [Aug.2025] Our proposal "Leveraging AI to Decipher microRNA mis-regulation in Colorectal Cancer" was funded by the Florida Department of Health.
 - [Jul.2025] Our proposal of AI modeling to identify m7G modification sites in cancer was funded by UF Health AI Pilot and Exploratory Study
 - [Jun.2025] Our paper "FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D" was online at MedRxiv and accepted for oral presentation at the 2025 AMIA Annual Symposium.
 - [Jun.2025] Ziying Zhang, PhD candidate at King's College London, joined our lab as a visiting PhD student. 
 - [Jun.2025] Mohammad Shafieinouri, PhD-MD student at the University of Florida, joined our lab for rotation. Welcome!
+- [May.2025] Yuanhan Chen joined our lab as a research assistant. Welcome!
 - [May.2025] Our paper "MTLNFM: A Multi-task Framework Using Neural Factorization Machines to Predict Patient Clinical Outcomes" was online at MedRxiv.
 - [May.2025] I served as a Panel Reviewer for the University of Florida R01 BootCamp Program.
 - [Apr.2025] Our paper "AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records" was online at MedRxiv and accepted for a flash talk at the 2025 ICIBM conference. 
@@ -60,7 +61,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Jan.2024] Our paper "Changes in Cyclic Guanosine Monophosphate Channel of 661w Cells In vitro with Excessive Light Time" was accepted by the Journal of Ophthalmic & Vision Research.
 - [Jan.2024] I am serving as an Associate Editor in the Journal of Heliyon, Bioinformatics and Computational Biology Section.
 - [Jan.2024] Our paper "SGCL-LncLoc: an interpretable deep learning model for improving lncRNA subcellular localization prediction with supervised graph contrastive learning" was accepted by Big Data Mining and Analytics.
-- [Jan.2024] Daphne Calin joined our lab as an undergraduate research assistant, welcome!
+- [Jan.2024] Daphne Calin joined our lab as an undergraduate research assistant. Welcome!
 - [Dec.2023] Our paper "Developing Ethics and Equity Principles, Terms, and Engagement Tools to Advance Health Equity and Researcher Diversity in AI and Machine Learning: Modified Delphi Approach" was accepted by JMIR AI. 
 - [Dec.2023] Our paper "LncLocFormer: a Transformer-based deep learning model for multi-label lncRNA subcellular localization prediction by using localization-specific attention mechanism" was accepted by Bioinformatics. 
 - [Nov.2023] Our paper "CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks" was accepted by Methods.
@@ -68,14 +69,14 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Oct.2023] Our paper "HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
 - [Oct.2023] Our paper "PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction" was accepted by the 2023 IEEE International Conference on Bioinformatics and Biomedicine. 
 - [Sep.2023] Our paper "Editorial: Computational Methods to Analyze RNA Data for Human Diseases" was accepted by Frontiers in Genetics. 
-- [Sep.2023] I am serving as Editorial Board Member in the Journal of BMC Bioinformatics
+- [Sep.2023] I am serving as an Editorial Board Member in the Journal of BMC Bioinformatics
 - [Sep.2023] Our proposal "Targeted protein design via constrained denoising diffusion probabilistic models" was funded by the Ministry of Education, Singapore
 - [Aug.2023] Our paper "Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records" was accepted by the 2023 AMIA Annual Symposium
 - [Aug.2023] Our paper "MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine" was accepted by the 2023 AMIA Annual Symposium
-- [Aug.2023] Pratyush Shukla joined our lab as a graduate research assistant, welcome!
+- [Aug.2023] Pratyush Shukla joined our lab as a graduate research assistant. Welcome!
 - [Jul.2023] I was invited to give a talk at the 2023 International Conference on Intelligent Biology and Medicine Workshop, with the topic "Leveraging the power of genomics to facilitate the diagnosis of undiagnosed diseases with machine learning models"
 - [Jul.2023] I am serving as the co-chair for the 2024 IEEE International Conference on Healthcare Informatics Tutorial.
-- [Jun.2023] Rohit Inampudi joined our lab as an undergraduate research assistant, welcome!
+- [Jun.2023] Rohit Inampudi joined our lab as an undergraduate research assistant. Welcome!
 - [Jun.2023] Weimin Meng joined our lab as a PhD student, welcome!
 - [Jun.2023] I was appointed as guest editor for the Special Issue "Computational Modeling in RNA Viruses" in the Journal of MDPI Viruses.
 - [May.2023] Our paper "COMET: Convolutional Dimension Interaction for Collaborative Filtering" was accepted by ACM Transactions on Intelligent Systems and Technology.
@@ -92,7 +93,7 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
 - [Nov.2022] Our paper "GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation" was accepted by Briefings in Bioinformatics.  
 - [Nov.2022] I am serving as Program Committee member for the 21st Asia Pacific Bioinformatics Conference (APBC).
 - [Nov.2022] Xiangyu Chen joined our lab as a research intern, welcome!
-- [Oct.2022] Jiaxin Li joined our lab as a research undergraduate student, welcome!
+- [Oct.2022] Jiaxin Li joined our lab as a research undergraduate student. Welcome!
 - [Oct.2022] Our collaborative proposal "Computational Drug Repurposing for AD/ADRD with Integrative Analysis of Real-World Data and Biomedical Knowledge was funded by NIA!
 - [Sep.2022] I am serving as Program Committee member for IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022).
 - [Aug.2022] Xiaohan Li joined our lab as a research graduate student, welcome!
