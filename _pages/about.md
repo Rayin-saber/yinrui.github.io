@@ -20,7 +20,6 @@ I am a tenure-track assistant professor (AI Initiative) at the Department of Hea
  
 <font size="5"><b>Recent News</b></font>
 - [Sep.2025] Meichuan Yin joined our lab as a research assistant. Welcome!
-- [Aug.2025] Fukun Chen joined our lab as a research assistant, welcome!
 - [Aug.2025] Muyuchen (Selina) Shi joined our lab as a research assistant. Welcome!
 - [Aug.2025] Praneeth Buchepalli joined our lab as a research assistant. Welcome!
 - [Aug.2025] I am collaborating in an NIGMS R35 project as Site PI to support the discovery of drug effects in cancer and dementia.
