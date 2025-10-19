@@ -24,7 +24,6 @@ author_profile: true
   
 <b>Master student</b>  
 - Meichuan Yin (Washington University in St. Louis)
-- Fukun Chen (University of Florida)
 - Muyuchen (Selina) Shi (UCSF & UC Berkeley)
 - Praneeth Buchepalli (University of Florida)
 - Yuanhan Chen (University of Florida)
